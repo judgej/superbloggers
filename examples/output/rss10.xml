@@ -1,0 +1,955 @@
+<?xml version="1.0"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns="http://purl.org/rss/1.0/"
+>
+<channel rdf:about="http://blogs.supermondays.org">
+	<title>Planet North East</title>
+	<link>http://blogs.supermondays.org</link>
+	<description>Planet North East - http://blogs.supermondays.org</description>
+
+	<items>
+		<rdf:Seq>
+			<rdf:li rdf:resource="http://transitlab.org/?p=998" />
+			<rdf:li rdf:resource="http://www.agm.me.uk/blog/?p=1584" />
+			<rdf:li rdf:resource="http://www.agm.me.uk/blog/?p=1582" />
+			<rdf:li rdf:resource="http://blog.infosanity.co.uk/?p=1259" />
+			<rdf:li rdf:resource="325001:3411171:34498827" />
+			<rdf:li rdf:resource="http://byrichardpowell.co.uk/post/69268512364" />
+			<rdf:li rdf:resource="http://www.supermondays.org/?p=1102" />
+			<rdf:li rdf:resource="http://communityitacademy.org/news/213-christmas-closure" />
+			<rdf:li rdf:resource="http://communityitacademy.org/news/215-do-you-need-help-with-social-media" />
+			<rdf:li rdf:resource="http://communityitacademy.org/news/214-new-guides-look-at-tablets-and-cloud-computing" />
+			<rdf:li rdf:resource="http://communityitacademy.org/news/212-microsoft-releases-windows-8-1" />
+			<rdf:li rdf:resource="http://communityitacademy.org/news/211-does-your-organisation-need-help-with-it" />
+			<rdf:li rdf:resource="http://www.ethicalhack3r.co.uk/?p=17208" />
+			<rdf:li rdf:resource="http://www.supermondays.org/?p=1089" />
+			<rdf:li rdf:resource="http://communityitacademy.org/news/210-funding-for-technology-projects-that-support-social-change" />
+			<rdf:li rdf:resource="http://communityitacademy.org/news/209-want-to-get-started-with-facebook-and-twitter" />
+			<rdf:li rdf:resource="http://www.agm.me.uk/blog/?p=1567" />
+			<rdf:li rdf:resource="325001:3411171:34420071" />
+			<rdf:li rdf:resource="http://transitlab.org/?p=991" />
+			<rdf:li rdf:resource="325001:3411171:34400586" />
+			<rdf:li rdf:resource="http://www.aidangarnish.net/post.aspx?id=41110825-61b5-42d4-8334-b1d61f144439" />
+			<rdf:li rdf:resource="http://www.supermondays.org/?p=1084" />
+			<rdf:li rdf:resource="http://blog.jamesmills.co.uk/?p=431" />
+			<rdf:li rdf:resource="http://byrichardpowell.co.uk/post/64408017774" />
+			<rdf:li rdf:resource="http://blog.jamesmills.co.uk/?p=422" />
+			<rdf:li rdf:resource="http://www.ethicalhack3r.co.uk/?p=17200" />
+			<rdf:li rdf:resource="http://transitlab.org/?p=970" />
+			<rdf:li rdf:resource="http://byrichardpowell.co.uk/post/64405899016" />
+			<rdf:li rdf:resource="http://communityitacademy.org/news/202-digital-tools-and-resources-for-community-groups" />
+			<rdf:li rdf:resource="http://communityitacademy.org/news/201-microsoft-s-cloud-suite-free-for-uk-charities" />
+			<rdf:li rdf:resource="http://communityitacademy.org/news/200-tenth-anniversary-discount" />
+			<rdf:li rdf:resource="http://communityitacademy.org/news/199-cita-celebrates-ten-years" />
+			<rdf:li rdf:resource="http://www.supermondays.org/?p=1064" />
+			<rdf:li rdf:resource="http://communityitacademy.org/news/198-discounted-microsoft-products-now-available-to-religious-organisations" />
+			<rdf:li rdf:resource="http://communityitacademy.org/news/197-grant-available-to-improve-charity-websites" />
+			<rdf:li rdf:resource="http://www.supermondays.org/?p=1059" />
+			<rdf:li rdf:resource="http://www.agm.me.uk/blog/?p=1556" />
+			<rdf:li rdf:resource="http://www.ethicalhack3r.co.uk/?p=17130" />
+			<rdf:li rdf:resource="http://www.supermondays.org/?p=1054" />
+			<rdf:li rdf:resource="http://blog.jamesmills.co.uk/?p=418" />
+			<rdf:li rdf:resource="325001:3411171:34182008" />
+			<rdf:li rdf:resource="http://www.aidangarnish.net/post.aspx?id=e1e222ef-dfc0-4d2b-88ac-0f463e7dbfb2" />
+			<rdf:li rdf:resource="http://www.supermondays.org/?p=1044" />
+			<rdf:li rdf:resource="http://communityitacademy.org/news/196-new-smartphone-puts-social-values-first" />
+			<rdf:li rdf:resource="http://www.ethicalhack3r.co.uk/?p=17123" />
+			<rdf:li rdf:resource="http://communityitacademy.org/news/195-google-launches-non-profit-programme-in-england-and-wales" />
+			<rdf:li rdf:resource="http://communityitacademy.org/news/194-unsure-how-to-get-started-with-social-media" />
+			<rdf:li rdf:resource="http://byrichardpowell.co.uk/post/57691004563" />
+			<rdf:li rdf:resource="http://www.ethicalhack3r.co.uk/?p=17108" />
+			<rdf:li rdf:resource="http://www.supermondays.org/?p=1031" />
+			<rdf:li rdf:resource="http://byrichardpowell.co.uk/post/56595849553" />
+			<rdf:li rdf:resource="http://www.ethicalhack3r.co.uk/?p=17104" />
+			<rdf:li rdf:resource="325001:3411171:34062476" />
+			<rdf:li rdf:resource="http://transitlab.org/?p=959" />
+			<rdf:li rdf:resource="http://www.aidangarnish.net/post.aspx?id=fba9cc43-37d3-4926-9483-af4d9862194a" />
+			<rdf:li rdf:resource="http://byrichardpowell.co.uk/post/57775170859" />
+			<rdf:li rdf:resource="http://www.supermondays.org/?p=1018" />
+			<rdf:li rdf:resource="http://www.andrewwestgarth.co.uk/blog/post.aspx?id=04ed9e55-35ec-4687-8181-73238ea46577" />
+			<rdf:li rdf:resource="http://www.andrewwestgarth.co.uk/blog/post.aspx?id=6124dccf-9263-42ff-a7b2-b271d0379faa" />
+			<rdf:li rdf:resource="http://www.andrewwestgarth.co.uk/blog/post.aspx?id=159ef88b-b299-424d-8dca-95f6f57bcbbb" />
+		</rdf:Seq>
+	</items>
+</channel>
+
+<item rdf:about="http://transitlab.org/?p=998">
+	<title>Transitlab: So that is 2013</title>
+	<link>http://transitlab.org/2013/so-that-is-2013</link>
+	<content:encoded>&lt;p id=&quot;top&quot;&gt;So that is 2013,&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;wp-image-1004 alignright&quot; alt=&quot;smelting underground &quot; src=&quot;http://transitlab.org/blog/wp-content/uploads/2013/12/IMG_9640-1024x768.jpg&quot; width=&quot;614&quot; height=&quot;461&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Far from the worst and close to the best.&lt;/p&gt;
+&lt;p&gt;The baby grows into a toddler, her language assembles, she walks and grows a head of hair.&lt;/p&gt;
+&lt;p&gt;More labs in strange places, a ship and an office.&lt;/p&gt;
+&lt;p&gt;Camps on an Island and at Allenhead.&lt;/p&gt;
+&lt;p&gt;Places connected by sharing of the industrial era, and the post industrial.&lt;/p&gt;
+&lt;p&gt;Parsons, Schmidt, Armstrong and Stephenson. Some bearded protos connected through weaponry, telescopes and factories&lt;/p&gt;
+&lt;p&gt;Baltics and the Balkans, important focii of friendships and geekhacktech. Technonomadism, with one foot in the local and one in the international.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;a2a_button_facebook&quot; href=&quot;http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Ftransitlab.org%2F2013%2Fso-that-is-2013&amp;linkname=So%20that%20is%202013&quot; title=&quot;Facebook&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;a class=&quot;a2a_button_twitter&quot; href=&quot;http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Ftransitlab.org%2F2013%2Fso-that-is-2013&amp;linkname=So%20that%20is%202013&quot; title=&quot;Twitter&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;a class=&quot;a2a_button_google_plus&quot; href=&quot;http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Ftransitlab.org%2F2013%2Fso-that-is-2013&amp;linkname=So%20that%20is%202013&quot; title=&quot;Google+&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;a class=&quot;a2a_dd a2a_target addtoany_share_save&quot; href=&quot;http://www.addtoany.com/share_save#url=http%3A%2F%2Ftransitlab.org%2F2013%2Fso-that-is-2013&amp;title=So%20that%20is%202013&quot; id=&quot;wpa2a_2&quot;&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-12-28T18:48:17+00:00</dc:date>
+</item>
+<item rdf:about="http://www.agm.me.uk/blog/?p=1584">
+	<title>Alistair's Blog: SnapCam to Close</title>
+	<link>http://feeds.agm.me.uk/~r/agm/~3/1pTfYHyfw6U/snapcam-to-close.php</link>
+	<content:encoded>&lt;p&gt;&lt;a href=&quot;http://www.agm.me.uk/blog/2013/12/snapcam-to-close.php/snapcamlogo&quot; rel=&quot;attachment wp-att-1587&quot;&gt;&lt;img src=&quot;http://www.agm.me.uk/blog/files/2013/12/snapcamlogo.gif&quot; alt=&quot;snapcamlogo&quot; width=&quot;90&quot; height=&quot;65&quot; class=&quot;alignright size-full wp-image-1587&quot; /&gt;&lt;/a&gt;Snapcam is a simple Windows web cam application and web service I produced in 2003 as a pet project. It simply took an image at a set interval and uploaded it to the web service. The (almost) live image could then be embedded in the user&amp;#8217;s web page. It is now outdated and sadly I need to close the free service down.&lt;/p&gt;
+&lt;p&gt;It was designed to be very easy to install without a complicate signup process, and it initially ran entirely on a free hosting service available at the time. Use has fallen away over the years as most people have move on to a more modern web cam solutions, or stopped completely. Today I don&amp;#8217;t feel it worth updating the software or moving the service on to new hosting &lt;a href=&quot;http://www.agm.me.uk/blog/2013/12/farewell-rails-playground.php&quot;&gt;that I need to do&lt;/a&gt;. I am really pleased people found and used the service useful over the last decade and part of the code does live on in some &lt;a href=&quot;http://www.youtube.com/watch?v=wbs7s8x6YaI&quot;&gt;time lapse experiments&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;New users have not been able to start using the service for a while, and current users should have been receiving a warning message through the software. The service will stop functioning on or after December 24th 2013. If you wants to keep using the service after that date then &lt;a href=&quot;http://www.agm.me.uk/contact&quot;&gt;please get in touch&lt;/a&gt; and I will see if I can come up with a low cost solution for you.&lt;/p&gt;
+&lt;img src=&quot;http://feeds.feedburner.com/~r/agm/~4/1pTfYHyfw6U&quot; height=&quot;1&quot; width=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2013-12-21T21:17:25+00:00</dc:date>
+</item>
+<item rdf:about="http://www.agm.me.uk/blog/?p=1582">
+	<title>Alistair's Blog: Farewell Rails Playground</title>
+	<link>http://feeds.agm.me.uk/~r/agm/~3/stnfNoM11Rc/farewell-rails-playground.php</link>
+	<content:encoded>&lt;p&gt;Most of my web sites, including this blog, and various experiments have been hosted on Rails Playground &lt;a href=&quot;http://www.agm.me.uk/blog/2007/10/my-sites-are-moving-host.php&quot;&gt;that I migrated to 6 years ago&lt;/a&gt;. On the whole things have gone well with only one short outage in the first 5 years, but sadly over the last year there have been a lot of problems including outages, data loss, and security issues. This post is a quick summery of the problems. I will be posting about some other related changes in the very near future.&lt;/p&gt;
+&lt;p&gt;It all started when another of their customers started relaying spam email, perhaps because of a security floor, or perhaps they were just a spammer. Because of this all outgoing email was blocked without notice. I have to say I am not at all happy about the way this was done and it stopped all my services that use email dead without any prior notice or notification. I was also not best pleased at the attitude that this was not a critical part of the service and I was initially expected to adapt my services to another email system.&lt;/p&gt;
+&lt;p&gt;After this happened for a second time and a lot of moaning my sites were migrated to a new server. They did all the migration for me although it would have been easer to do myself. They inconsistently screwed up the dates when porting the databases. Being a US focused company with technicians in Asia migrating UK sites between servers in goodness knows where I can see how it happened, but it is not an excuse for the error.&lt;/p&gt;
+&lt;p&gt;Another problem is this new server was running the security mod called suEXEC that will allow email to be blocked per user, but unless some effort is put in it opens up a gaping great security hole. The way suEXEC was set up, and in fairness this is becoming quite common with the lower end hosting companies, will allow someone who can find a small exploit in any code to completely take over my sites. I like to think my production code is secure, but no one can 100% promise this, and holes in WordPress and PHPBB are being found all the time.&lt;/p&gt;
+&lt;p&gt;My general advice is if your ISP uses suEXEC, and the account you use to upload files is the same account that the web server uses to access the files, then just go to another ISP. If you have a separate user account for the upload and the server then this is the prefect setup, but if not you are better without suEXEC at all.&lt;/p&gt;
+&lt;p&gt;Anyway, the new server was also resulting in a huge percentage of cron jobs failing and I can not login using SSL most of the time. After a few more significant outages things got a little out of control and I decided I had to move away.&lt;/p&gt;
+&lt;p&gt;I have now moved everything that I am not culling to a new virtual machine hosted with &lt;a href=&quot;https://www.digitalocean.com/?refcode=f48fb387873c&quot;&gt;Digital Ocean&lt;/a&gt; (and that is a referral link so if you are thinking of signing up then please use the link). Although I am a fan of managed shared hosting (despite it not being popular in some circles) I am having trouble finding a good and reliable ISP at a decent price. As a result I have had to go the self hosted route that will take a little more effort than I would like, but having done it before I feel I have the sys admin skills to keep things secure, efficient and a lot more stable than things have been recently.&lt;/p&gt;
+&lt;p&gt;I am truly am sad to have to be moving away from Rails Playground as they really have been good in the past and &lt;a href=&quot;http://www.agm.me.uk/blog/2010/04/well-done-isps.php&quot;&gt;I have been happy to say so&lt;/a&gt;, but I need an ISP I can rely on and sadly I can not do this any more. :-(&lt;/p&gt;
+&lt;img src=&quot;http://feeds.feedburner.com/~r/agm/~4/stnfNoM11Rc&quot; height=&quot;1&quot; width=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2013-12-21T19:08:08+00:00</dc:date>
+</item>
+<item rdf:about="http://blog.infosanity.co.uk/?p=1259">
+	<title>Infosanity: Infosanity</title>
+	<link>http://blog.infosanity.co.uk/2013/12/13/stupidity-begets-stupidity-and-no-security/</link>
+	<content:encoded>&lt;p&gt;I realised whilst at work today that my credit card wasn&amp;#8217;t in my wallet, after hoping against hope that it would be in yesterday&amp;#8217;s trouser pocket when I got home I had to accept that it was lost. Far from the brightest thing I&amp;#8217;ve done today, especially given the time of year. So I did the sensible thing and called the card provider to cancel the card.&lt;/p&gt;
+&lt;p&gt;The number I called was listed as being for (admittedly amongst other things) reporting lost or stolen cards; first question the automated ask was my card number, which I didn&amp;#8217;t have; regardless I quickly got through to a person who (I&amp;#8217;ll be fair) handled my problem with speed and minimal fuss.&lt;/p&gt;
+&lt;p&gt;Whilst finding my account without the card number I was asked to confirm my date of birth; once the correct account was identified I was asked a couple of security questions to confirm I was me; all very normal and acceptable. However the second question asked how old I will be come my next birthday; apart from the fact that this is hardly the most protected of information, had I been a fraudulent caller trying to maliciously access someone else&amp;#8217;s account I had already correctly provided D.o.B. not 2 minutes earlier; not exactly difficult to extrapolate one from the other.&lt;/p&gt;
+&lt;p&gt;To be honest, I didn&amp;#8217;t worry too much; some of the other security questions were likely sufficiently detailed to limit the chance of someone else getting past the gatekeepers. But being a sarcastic and (hopefully) helpful sort of bloke I jumped on twitter to suggest that asking a &amp;#8216;security&amp;#8217; question based off a wildly known and shared piece of unchangeable information probably wasn&amp;#8217;t the best of ideas.&lt;/p&gt;
+&lt;p&gt;THIS is where I really started getting concerned, the whole conversation can be read &lt;a title=&quot;@infosanity / @barclaysonline conversation&quot; href=&quot;https://twitter.com/Infosanity/status/411566600249438209&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt; (Barclays twitter people, I have screengrabs for prosperity if you feel like deleting any of the responses&amp;#8230;..).&lt;/p&gt;
+&lt;p&gt;Some of my favourites:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/BarclaysOnline/status/411562616172322816&quot; target=&quot;_blank&quot;&gt;Unfortunately, we&amp;#8217;re unable to confirm what security questions will be asked when you call one of our teams&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;I wasn&amp;#8217;t asking what questions I would need the answers to, but pointing out the questions I &lt;em&gt;was&lt;/em&gt; asked weren&amp;#8217;t exactly the most robust. Either way, security via obscurity isn&amp;#8217;t security, and if knowing the types of questions to be asked really does make accounts vulnerable and I was a fraudster; I&amp;#8217;d simply have a number of like minded miscreants call up several times until the pool of potential questions was exhausted&amp;#8230;.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/BarclaysOnline/status/411566048354512896&quot; target=&quot;_blank&quot;&gt;We only ask questions in which the genuine account holder should know the answer to.&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;This is the point that tipped me over the edge, if I need to explain to anyone why believing only the genuine account holder knows their date of birth, I&amp;#8217;ve got a bridge I want to sell you. (hint if needed: Do you get cards/presents from those that know you the same time every year?).&lt;/p&gt;
+&lt;p&gt;Admittedly, at this point I got a bit &amp;#8216;unprofessional&amp;#8217; and suggested I was either being fobbed off, or Barclays (twitter handler)&amp;#8217; security knowledge is inept, I&amp;#8217;m assuming this &amp;#8216;abuse&amp;#8217; may be the reason I&amp;#8217;ve had no further response.&lt;/p&gt;
+&lt;p&gt;I really hope that this incident is the result of the individual handling the conversation being out of their depth and having an inadequate script to follow. If not, and this is indicative of Barclays security provisions (and someone, somewhere had to OK the question being used in the first place) I need to reconsider where I bank&amp;#8230;.&lt;/p&gt;
+&lt;p&gt;&amp;#8211;Andrew Waite&lt;/p&gt;
+&lt;p&gt;P.S. I have no evidence, but I&amp;#8217;m getting a creeping felling of deja vu that I&amp;#8217;ve had a similar telephone authentication process, and a similar discussion on twitter as to whether this is a good idea&lt;/p&gt;&lt;br /&gt;  &lt;a rel=&quot;nofollow&quot; href=&quot;http://feeds.wordpress.com/1.0/gocomments/infosanity.wordpress.com/1259/&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/infosanity.wordpress.com/1259/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://stats.wordpress.com/b.gif?host=blog.infosanity.co.uk&amp;blog=8614004&amp;post=1259&amp;subd=infosanity&amp;ref=&amp;feed=1&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2013-12-13T19:40:52+00:00</dc:date>
+</item>
+<item rdf:about="325001:3411171:34498827">
+	<title>Jonoble.com, powershell, tech, stuff: You've got to read this!</title>
+	<link>http://www.jonoble.com/blog/2013/12/11/youve-got-to-read-this.html</link>
+	<content:encoded>&lt;p&gt;If you work in IT (heck, even if your business has any IT - so that's all of you), then there's a book that you should read; &quot;&lt;a href=&quot;http://itrevolution.com/books/phoenix-project-devops-book/&quot;&gt;The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win&lt;/a&gt;&quot;.&lt;/p&gt;
+&lt;p&gt;Regardless of your specific role, I'm certain that you'll learn something useful (and more importantly, actionable). I've changed my approach to doing a few things already based on lessons I've taken from the book and I still need to process some more ideas around how to do stuff better. I expect that I'll be reading it at least one more time through so that I don't miss anything that I could make use of.&lt;/p&gt;
+&lt;p&gt;One month ago, I'd never heard about this book. Of all the interesting and useful things that I took away from the Microsoft Global MVP Summit this November, I suspect that this will have the greatest impact. Fellow PowerShell MVP &lt;a id=&quot;js_20&quot; class=&quot;profileLink&quot; href=&quot;http://stevenmurawski.com/&quot;&gt;Steven Murawski&lt;/a&gt;&amp;nbsp;often talks about DevOps and recommends this book in his presentations. He's such a fan of the book that he brought a bunch of copies to give out and I was very glad to receive one after hearing him extol its virtues. (Thanks Steven!)&lt;/p&gt;
+&lt;p&gt;Having read the first few chapters on the flight back from Seattle, on landing I purchased the &lt;a href=&quot;http://www.amazon.co.uk/gp/product/B00AZRBLHO/ref=as_li_ss_tl?ie=UTF8&amp;camp=1634&amp;creative=19450&amp;creativeASIN=B00AZRBLHO&amp;linkCode=as2&amp;tag=jonoble-21&quot;&gt;Kindle edition from Amazon UK&lt;/a&gt;&amp;nbsp;so that I could carry it around on my Kindle and phone in order to reduce the barriers to being able to consume it!&lt;/p&gt;
+&lt;p&gt;Personally, I love the approach that this book takes. By encompassing so much useful information about ITSM, DevOps methodologies and much more in a novel with an engaging storyline, I was able to read it much more easily and quickly that many of the dry technical texts that bog down our industry. I think that it also helped me to digest the information and apply it to my work situation more easily, even though I work in a significantly different type of organisation to that in the story.&lt;/p&gt;
+&lt;p&gt;The bottom line is that this isn't just a good book, it's an important book. You should read it at the first available opportunity. We'll all be the better for it.&lt;/p&gt;</content:encoded>
+	<dc:date>2013-12-11T09:52:40+00:00</dc:date>
+</item>
+<item rdf:about="http://byrichardpowell.co.uk/post/69268512364">
+	<title>Richard Powell - UX and Web Design in Newcastle: Presentations: D3, Rickshaw &amp; Backbone</title>
+	<link>http://byrichardpowell.co.uk/post/69268512364</link>
+	<content:encoded>Over the past 2 weeks I&amp;#8217;ve been fortunate enough to talk about D3, Rickshaw and Backbone at 5...</content:encoded>
+	<dc:date>2013-12-07T14:32:00+00:00</dc:date>
+</item>
+<item rdf:about="http://www.supermondays.org/?p=1102">
+	<title>SuperMondays: HTML prototyping, Web standards and Encryption videos</title>
+	<link>http://www.supermondays.org/2013/11/30/html-prototyping-web-standards-and-encryption-videos/</link>
+	<content:encoded>&lt;p&gt;This month we improvised with the videos recording them on a mobile phone. Hopefully the lack of recording quality will not take anything away from the content.&lt;/p&gt;
+&lt;h2&gt;Martin Underhill &amp;#8211; The Importance of Web Standards&lt;br /&gt;
+ &lt;/h2&gt;
+&lt;h2&gt;Vicky Teinaki &amp;#8211; Got HTML prototypes&lt;br /&gt;
+ &lt;/h2&gt;
+&lt;p&gt;You can view &lt;a href=&quot;http://www.slideshare.net/vickyteinaki/supermondays&quot;&gt;Vicky&amp;#8217;s slides on SlideShare&lt;/a&gt; and read her &lt;a href=&quot;http://www.orangebus.co.uk/blog-post/ux-lesson-html-prototyping&quot;&gt;summery blog post&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Ross Cooney &amp;#8211; A Brief History&lt;br /&gt;
+ &lt;/h2&gt;
+&lt;p&gt;Apologise that Ross&amp;#8217;s question were cut short. The battery in the phone ran out. Do you know how much effort it takes to recover video from an iPhone when the battery has run out. We did not until this but it turns out to be a lot.&lt;/p&gt;
+&lt;p&gt;So that is SuperMondays done and dusted for 2013, and we hope to see you all again in January 2014.&lt;/p&gt;</content:encoded>
+	<dc:date>2013-11-30T13:19:45+00:00</dc:date>
+</item>
+<item rdf:about="http://communityitacademy.org/news/213-christmas-closure">
+	<title>Community IT Academy: Christmas closure</title>
+	<link>http://communityitacademy.org/news/213-christmas-closure</link>
+	<content:encoded>&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://communityitacademy.org/media/k2/items/cache/c79015a227b446e15f181d145a9ed4a7_S.jpg&quot; alt=&quot;Christmas closure&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;CITA will close on Saturday 21 December 2013 and will reopen again on Monday 6 January 2014.&lt;/p&gt;
+&lt;p&gt;Existing customers can call Lewis Atkinson on his mobile phone for urgent enquiries - 07958 482 509.&lt;/p&gt;
+&lt;p&gt;We would like to take this opportunity to wish all of our customers a merry Christmas and a happy new year.&lt;/p&gt;&lt;/div&gt;</content:encoded>
+	<dc:date>2013-11-26T15:55:00+00:00</dc:date>
+	<dc:creator>William Mortada</dc:creator>
+</item>
+<item rdf:about="http://communityitacademy.org/news/215-do-you-need-help-with-social-media">
+	<title>Community IT Academy: Do you need help with social media?</title>
+	<link>http://communityitacademy.org/news/215-do-you-need-help-with-social-media</link>
+	<content:encoded>&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://communityitacademy.org/media/k2/items/cache/4fcf9d660236ddb62c8456017158615a_S.jpg&quot; alt=&quot;Do you need help with social media?&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Social Media Surgeries are free session for voluntary and community groups, charities and anyone committed to social change.&lt;/p&gt;
+&lt;p&gt;Come along for free hands-on advice for putting social media into action to help your group reach a wider audience. Whether it’s getting started with websites, blogs, Facebook groups or reaching a new audience through Twitter, 'surgeons' will be on hand with practical advice and solutions.&lt;/p&gt;
+&lt;p&gt;A new surgery has started in Gateshead so there are now two surgeries in the North East (click on the link to book):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a title=&quot;Gateshead social media surgery (opens in new window)&quot; href=&quot;http://socialmediasurgery.com/surgeries/gateshead&quot; target=&quot;_blank&quot;&gt;Gateshead&lt;/a&gt; - Thursday 23 January 2014, 4:30pm to 6:30pm at Gateshead Central Library&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Newcastle social media surgery (opens in new window)&quot; href=&quot;http://socialmediasurgery.com/surgeries/newcastle&quot; target=&quot;_blank&quot;&gt;Newcastle&lt;/a&gt; - Thursday 30 January 2014, 4:00pm to 6:00pm at Pink Lane Coffee, Newcastle&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Places are limited so booking a place is essential. A participant from a previous surgery said it was '&lt;em&gt;one of the best training sessions I've ever been to&lt;/em&gt;', so don't miss out!&lt;/p&gt;&lt;/div&gt;</content:encoded>
+	<dc:date>2013-11-26T15:35:18+00:00</dc:date>
+	<dc:creator>William Mortada</dc:creator>
+</item>
+<item rdf:about="http://communityitacademy.org/news/214-new-guides-look-at-tablets-and-cloud-computing">
+	<title>Community IT Academy: New guides look at tablets and cloud computing</title>
+	<link>http://communityitacademy.org/news/214-new-guides-look-at-tablets-and-cloud-computing</link>
+	<content:encoded>&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://communityitacademy.org/media/k2/items/cache/86e8e67edae9219d12d438efd5f5a939_S.jpg&quot; alt=&quot;New guides look at tablets and cloud computing&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Are you thinking of purchasing a tablet or making use of cloud technologies?&amp;nbsp; If so, take a look at our new guides.&lt;/p&gt;
+&lt;p&gt;We have a range of guides and resources on our website.&amp;nbsp; They are based on the common questions we get asked by the voluntary and community organisations we support.&amp;nbsp; So, if you are planning an IT project or have any IT related questions take a look at the &lt;a href=&quot;http://communityitacademy.org/index.php?option=com_content&amp;view=article&amp;id=35&amp;Itemid=302&quot;&gt;resources&lt;/a&gt; section of our website.&lt;/p&gt;
+&lt;p&gt;We have just updated all of the &lt;a href=&quot;http://communityitacademy.org/index.php?option=com_phocadownload&amp;view=categories&amp;Itemid=290&quot;&gt;guides&lt;/a&gt; and have added two new titles to this section:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://communityitacademy.org/resources/guides/category/1-how-to-guides?download=38:case-study-moving-to-the-cloud&amp;start=20&quot;&gt;Case study - Moving to the cloud&lt;/a&gt; (PDF 119kB)&lt;br /&gt;looks at our own experience of switching from a traditional office-based IT system to the cloud&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://communityitacademy.org/resources/guides/category/1-how-to-guides?download=37:buying-it-which-tablet&quot;&gt;Buying IT - Which tablet?&lt;/a&gt; (PDF 128kB)&lt;br /&gt;looks at the factors to consider when purchasing a tablet computer.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;If you have any questions about these or other topics please give us a call on 07958 482 509.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</content:encoded>
+	<dc:date>2013-11-26T15:09:34+00:00</dc:date>
+	<dc:creator>William Mortada</dc:creator>
+</item>
+<item rdf:about="http://communityitacademy.org/news/212-microsoft-releases-windows-8-1">
+	<title>Community IT Academy: Microsoft releases Windows 8.1</title>
+	<link>http://communityitacademy.org/news/212-microsoft-releases-windows-8-1</link>
+	<content:encoded>&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://communityitacademy.org/media/k2/items/cache/2e2843e2ade511d88df42c8a44a73c77_S.jpg&quot; alt=&quot;Microsoft releases Windows 8.1&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Microsoft has released an update to its new operating system.&amp;nbsp; We look at whether it is worth upgrading.&lt;/p&gt;
+&lt;p&gt;A year after &lt;a href=&quot;http://communityitacademy.org/index.php?option=com_k2&amp;view=item&amp;id=171:should-you-upgrade-to-windows-8&amp;Itemid=124&quot;&gt;the initial release of Windows 8&lt;/a&gt;, Microsoft released Windows 8.1 last month to mixed reviews.&amp;nbsp; This is an incremental update to Windows 8 and there are no major changes.&amp;nbsp; Perhaps the most notable feature of the upgrade is the return of a Start button to the desktop.&amp;nbsp; However, this is just a button that takes you to the Start screen, it is not a return of the Start menu that we are all used to from previous versions of Windows.&lt;/p&gt;
+&lt;h3&gt;Should you upgrade?&lt;/h3&gt;
+&lt;p&gt;It depends.&lt;/p&gt;
+&lt;p&gt;For the minority of organisations that are already using Windows 8 we would say yes.&amp;nbsp; The upgrade is free and does offer an improved experience to Windows 8.&lt;/p&gt;
+&lt;p&gt;Learn how to upgrade: &lt;a title=&quot;Microsoft (opens in new window)&quot; href=&quot;http://windows.microsoft.com/en-gb/windows-8/update-from-windows-8-tutorial&quot; target=&quot;_blank&quot;&gt;Updating to Windows 8.1 from Windows 8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For the majority of organisations that are still using older versions of Windows on the desktop we don't see any compelling reasons to upgrade.&amp;nbsp; Windows 8 is quite a big change from previous versions of Windows and many users find it confusing and difficult to use, particularly if, like most desktop users, they primarily use a keyboard and mouse.&lt;/p&gt;
+&lt;p&gt;If you do wish to upgrade from an older version of windows, eligible charities can obtain a licence for £7 from tt-exchange: &lt;a title=&quot;Opens in new window&quot; href=&quot;http://www.ctxchange.org/partner_catalogues/by_donor/ms_title_groups/Windows+Desktop+Operating+Systems&quot; target=&quot;_blank&quot;&gt;Microsoft Windows on tt-exchange&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Buying a new machine?&lt;/h3&gt;
+&lt;p&gt;If you are looking to buy a new touch screen laptop or tablet then Windows 8.1 is definitely worth considering.&amp;nbsp; Windows 8 was designed for touch and works well with touch screen devices.&amp;nbsp; However, you may want to evaluate the competition as Microsoft's App Store is smaller than the Android and Apple stores.&lt;/p&gt;
+&lt;p&gt;See our new guide to purchasing a tablet: &lt;a href=&quot;http://communityitacademy.org/resources/guides/category/1-how-to-guides?download=37:buying-it-which-tablet&quot;&gt;Buying IT - Which tablet?&lt;/a&gt; (PDF 128kB)&lt;/p&gt;
+&lt;p&gt;If you are looking for a traditional desktop machine and don't need a touch screen then we would recommend going for Windows 7.&amp;nbsp; You may find it difficult to find a Windows 7 machine at the consumer end of the market, but at the business end Windows 7 is still very much available as this is what many businesses are asking for.&lt;/p&gt;
+&lt;p&gt;See our guide to purchasing a new computer: &lt;a href=&quot;http://communityitacademy.org/resources/guides/category/1-how-to-guides?download=3:buying-it-the-typical-pc&quot;&gt;Buying IT - The typical PC&lt;/a&gt; (PDF 48kB)&lt;/p&gt;
+&lt;h3&gt;Still using Windows XP?&lt;/h3&gt;
+&lt;p&gt;We know that many voluntary organisations make use of older machines and many of you may still be using Windows XP.&amp;nbsp; If this is the case, you should be aware that Microsoft will &lt;a title=&quot;Microsoft (opens in new window)&quot; href=&quot;http://windows.microsoft.com/en-gb/windows/end-support-help&quot; target=&quot;_blank&quot;&gt;end support for Windows XP&lt;/a&gt; in April 2014.&amp;nbsp; After this date there will be no security updates, which will leave your computer at greater risk of being hacked or infected by malware.&amp;nbsp; If you haven't done so already we recommend that you start planning to upgrade your Windows XP machines now.&amp;nbsp; However, be aware that Windows 7 and 8 may struggle to run on older machines so check the minimum requirements - it may be time to consider purchasing a new machine.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If you have any questions or need support reviewing your IT systems please give us a call on 07958 482 509.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</content:encoded>
+	<dc:date>2013-11-22T09:46:03+00:00</dc:date>
+	<dc:creator>William Mortada</dc:creator>
+</item>
+<item rdf:about="http://communityitacademy.org/news/211-does-your-organisation-need-help-with-it">
+	<title>Community IT Academy: Does your organisation need help with IT?</title>
+	<link>http://communityitacademy.org/news/211-does-your-organisation-need-help-with-it</link>
+	<content:encoded>&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://communityitacademy.org/media/k2/items/cache/18cb4412b3fd96d4c2c15944894f7ea5_S.jpg&quot; alt=&quot;Does your organisation need help with IT?&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;High quality IT advice and support is available to organisations across the North East.&lt;/p&gt;
+&lt;p&gt;Our popular &quot;&lt;a href=&quot;http://communityitacademy.org/index.php?option=com_content&amp;view=article&amp;id=7&amp;Itemid=275&quot;&gt;Circuit Rider&lt;/a&gt;&quot; programme helps voluntary and community organisations reduce their administrative costs and work more effectively through practical help, consultancy and advice. The programme has provided over 1,000 hours of support to 250 organisations since it started in 2007.&lt;/p&gt;
+&lt;p&gt;We are very grateful to the Northern Rock Foundation for supporting this programme over the past six years and to continue to support it into 2014.&amp;nbsp; Please note, however, that for the next year the funding will only support organisations that are nominated by the Northern Rock Foundation.&lt;/p&gt;
+&lt;p&gt;We are, of course, very happy to provide advice and support to organisations outside of this programme and we will be launching a new consultancy package in the new year.&lt;/p&gt;
+&lt;p&gt;In addition, thanks to support from Tynexe, we are able to offer advice and support to a limited number of organisations in Newcastle at no charge.&amp;nbsp; This will be offered on a first come, first served basis and we expect it to be popular, so please get in touch soon if you would like to take advantage of this offer.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;If your organisation needs any support with its IT please call us on 07958 482 509.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Read more: &lt;a href=&quot;http://communityitacademy.org/index.php?option=com_content&amp;view=article&amp;id=7&amp;Itemid=275&quot;&gt;Advice and consultancy&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content:encoded>
+	<dc:date>2013-11-21T14:23:28+00:00</dc:date>
+	<dc:creator>William Mortada</dc:creator>
+</item>
+<item rdf:about="http://www.ethicalhack3r.co.uk/?p=17208">
+	<title>Ethicalhack3r: What passwords is GitHub banning?</title>
+	<link>http://www.ethicalhack3r.co.uk/what-passwords-is-github-banning/</link>
+	<content:encoded>GitHub was recently the target of a large weak password brute force attack which involved 40k unique IP addresses. One of many of the security measures GitHub has now taken is to ban users to register with &amp;#8216;commonly-used weak passwords&amp;#8217;. To find out what GitHub considers as &amp;#8216;commonly-used weak passwords&amp;#8217; I decided to compile a [&amp;#8230;]</content:encoded>
+	<dc:date>2013-11-20T18:23:23+00:00</dc:date>
+</item>
+<item rdf:about="http://www.supermondays.org/?p=1089">
+	<title>SuperMondays: HTML prototyping, Web standards and a hint of encryption</title>
+	<link>http://www.supermondays.org/2013/11/19/html-prototyping-web-standards-and-a-hint-of-encryption/</link>
+	<content:encoded>&lt;p&gt;This month we have three excellent speakers covering the following topics:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://uk.linkedin.com/in/vickyteinaki&quot;&gt;Vicky Teinaki&lt;/a&gt;: Got HTML prototypes? We&amp;#8217;ve come a long way since the days of mocking things up in Macromedia Fireworks and pulling them apart in Dreamweaver. Or have we? I&amp;#8217;ll discuss some of the current practices on why to and not to prototype in code and some of the options each way, from Bootstrap to Axure.&lt;/p&gt;
+&lt;div&gt;&lt;a href=&quot;http://twitter.com/tempertemper&quot;&gt;Martin Underhill&lt;/a&gt;: The Importance of Web Standards&lt;/div&gt;
+&lt;div&gt;Nothing is more important to a business than the bottom line. That goes for start ups, agencies and freelancers alike; web standards affect every business in more ways that we might think! I’ll be talking about reaching as wide an audience (or as big a market) as possible through well written HTML and CSS and how that code is easier (and therefore cheaper) to maintain.&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://uk.linkedin.com/in/rosscooney/&quot;&gt;Ross Cooney&lt;/a&gt;: A brief history of encryption from the Egyptians, Mary Queen of Scotts, American gold diggers and The Enigma machine. I will show the evolution of ciphers and some of the tricks used to break them. (NB: I am not a cryptanalyst, just an enthusiast!).&lt;/p&gt;
+&lt;p&gt;This event will take place on Monday 25th November at the Research Beehive in Newcastle University. We will meet at 18:00 for tea, coffee and sandwiches&amp;#8230;.speeches will start at 18:30.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.eventbrite.com/event/9415474939?ref=ebtnebregn&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;aligncenter&quot; alt=&quot;Eventbrite - HTML prototyping, Web standards and a hint of encryption&quot; src=&quot;http://www.eventbrite.com/custombutton?eid=9415474939&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-11-19T10:38:01+00:00</dc:date>
+</item>
+<item rdf:about="http://communityitacademy.org/news/210-funding-for-technology-projects-that-support-social-change">
+	<title>Community IT Academy: Funding for technology projects that support social change</title>
+	<link>http://communityitacademy.org/news/210-funding-for-technology-projects-that-support-social-change</link>
+	<content:encoded>&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://communityitacademy.org/media/k2/items/cache/97d2860871f3d35e35f6eb0477d3015a_S.jpg&quot; alt=&quot;Funding for technology projects that support social change&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;The Nominet Trust are offering funding of £50,000 or more to projects that use technology for social change.&lt;/p&gt;
+&lt;p&gt;They are currently running three investment programmes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The Digital Edge&lt;/strong&gt; is an investment programme to fund innovative, tested ideas for using digital technology to improve young people’s economic and social participation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Life Transitions&lt;/strong&gt; funds innovative ventures using digital technology to support people during periods of transition, such as moving in and out of employment, bereavement, or moving in and out of a healthcare environment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social Tech Seed&lt;/strong&gt; is an open investment programme that offers early-stage investment to entrepreneurs that are looking to develop new ventures using digital for social impact.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The next deadline for applications is 27 November 2013.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For more information please visit The Nominet Trust's website: &lt;a title=&quot;Nominet Trust (opens in new window)&quot; href=&quot;http://www.nominettrust.org.uk/what-we-support/our-investment-programmes&quot; target=&quot;_blank&quot;&gt;Investment Programmes&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content:encoded>
+	<dc:date>2013-11-14T17:15:51+00:00</dc:date>
+	<dc:creator>William Mortada</dc:creator>
+</item>
+<item rdf:about="http://communityitacademy.org/news/209-want-to-get-started-with-facebook-and-twitter">
+	<title>Community IT Academy: Want to get started with Facebook and Twitter?</title>
+	<link>http://communityitacademy.org/news/209-want-to-get-started-with-facebook-and-twitter</link>
+	<content:encoded>&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://communityitacademy.org/media/k2/items/cache/e02fde07d49ee258cc3f6d1b19207757_S.jpg&quot; alt=&quot;Want to get started with Facebook and Twitter?&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;The Newcastle Social Media Surgery is a free session for voluntary and community groups, charities and anyone committed to social change in Newcastle.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Do you want to find out about new ways to tell your organisation's story to people in Newcastle?&lt;/li&gt;
+&lt;li&gt;Do you want to learn how to use Twitter, Facebook, blogs, free websites and other social media tools?&lt;/li&gt;
+&lt;li&gt;Do you want to learn how to share your photos and videos?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you need help with social media, come to the next Social Media Surgery on &lt;strong&gt;Thursday 21 November 2013&lt;/strong&gt;, 4:00pm to 6:00pm at Pink Lane Coffee.&lt;/p&gt;
+&lt;p&gt;A participant from a previous surgery said it was '&lt;em&gt;one of the best training sessions I've ever been to&lt;/em&gt;', so don't miss out!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Places are limited so booking a place is essential.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To find out more and to book a place visit: &lt;a title=&quot;Opens in new window&quot; href=&quot;http://socialmediasurgery.com/surgeries/newcastle&quot; target=&quot;_blank&quot;&gt;Newcastle Social Media Surgery&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content:encoded>
+	<dc:date>2013-11-14T10:57:35+00:00</dc:date>
+	<dc:creator>William Mortada</dc:creator>
+</item>
+<item rdf:about="http://www.agm.me.uk/blog/?p=1567">
+	<title>Alistair's Blog: Upgrading to Ubuntu 12.04 LTS and the MATE Desktop</title>
+	<link>http://feeds.agm.me.uk/~r/agm/~3/wptC7fwKNfc/upgrading-to-ubuntu-12-04-lts-and-the-mate-desktop.php</link>
+	<content:encoded>&lt;p&gt;I have had a lightweight &amp;#8220;nettop&amp;#8221; computer on my desk running Ubuntu 10.04 LTS for quite some time. I use this almost exclusively for accessing the web with Chrome, and doing some admin tasks that are just more simple to do on a Linux machine. Unfortunately Ubuntu 10.04 LTS has not been fully supported since earlier in the year, and more recently Google stopped updating Chrome for it so I decided it was time to move on to something more modern.&lt;/p&gt;
+&lt;p&gt;One reason I have not updated yet is that the desktop has changed from &lt;a href=&quot;http://feeds.agm.me.uk/www.gnome.org/start/2.0/‎&quot;&gt;Gnome 2&lt;/a&gt; to &lt;a href=&quot;http://unity.ubuntu.com/&quot;&gt;Unity&lt;/a&gt; that is like moving from Windows XP to Windows 7. I don&amp;#8217;t dislike the new interface like many, but it does take up more memory and processing power, and this little machine does not have much of either. I was originally intending to migrate it to &lt;a href=&quot;http://www.linuxmint.com/&quot;&gt;Linux Mint&lt;/a&gt; using the &lt;a href=&quot;http://mate-desktop.org/&quot;&gt;MATE desktop&lt;/a&gt; but decided to give Ubuntu 12.04 LTS a try first as it was a simple auto upgrade. Granted it took a few hours in the end but did mention this machine is low on processing power.&lt;/p&gt;
+&lt;p&gt;The update went smoothly but needed a lot of confirmations over the process so needed checking on frequently. Unfortunately it was a little laggy as predicted and used a large percentage of the small machine&amp;#8217;s memory.&lt;/p&gt;
+&lt;p&gt;I then had the mad idea of trying to install the MATE desktop on top of the Ubuntu installation I already had instead of a complete reinstall. I followed the &lt;a href=&quot;http://wiki.mate-desktop.org/download&quot;&gt;install instructions on the MATE web site&lt;/a&gt; and it all went very smoothly. My exact script is below but I would recommend checking back to the original web site in case the distribution changes.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;code&gt;sudo add-apt-repository &quot;deb http://repo.mate-desktop.org/ubuntu precise main&quot;&lt;br /&gt;
+sudo apt-get update&lt;br /&gt;
+# Ignore the error. We were expecting it.&lt;br /&gt;
+# The following line will fix it but we needed to do the update first.&lt;br /&gt;
+sudo apt-get --yes --quiet --allow-unauthenticated install mate-archive-keyring&lt;br /&gt;
+sudo apt-get update&lt;br /&gt;
+sudo apt-get install mate-core&lt;br /&gt;
+sudo apt-get install mate-desktop-environment&lt;/code&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;After logging out I needed to select MATE from the cog icon by my name before logging in again, and then I was up and running with MATE. I did need to change almost all the desktop colour settings to be able to read all the text, but most of the other menu setup has been brought across from the old setup. I still need to tweak the font settings to improve the general look and feel further, and some of the apps still have colour settings so there is some tweaking to be done, but all this is a lot less hassle than a complete reinstall.&lt;/p&gt;
+&lt;p&gt;Also most importantly it did the trick with only 230MB RAM being used (approximately the same as before give or take a few meg) and the boot time is only a little slower at 100 seconds. Shutdown is about the same at 15 seconds. Chrome also works as well as it did and that is what I was after.&lt;/p&gt;
+&lt;p&gt;Granted it is annoying to have to do this at all, but to keep the security patches coming I needed to do something, and I would find it tricky to argue that it would have been sensible for anyone to support such old systems. If you are in the same position then give it some thought and I hope this proves useful.&lt;/p&gt;
+&lt;img src=&quot;http://feeds.feedburner.com/~r/agm/~4/wptC7fwKNfc&quot; height=&quot;1&quot; width=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2013-11-12T21:28:05+00:00</dc:date>
+</item>
+<item rdf:about="325001:3411171:34420071">
+	<title>Jonoble.com, powershell, tech, stuff: Free events for IT Pros in Newcastle on 25th November</title>
+	<link>http://www.jonoble.com/blog/2013/11/12/free-events-for-it-pros-in-newcastle-on-25th-november-5.html</link>
+	<content:encoded>&lt;p&gt;On Monday 25th November, St James' Park in Newcastle is the venue for three free events for IT professionals covering a range of Microsoft technologies.&lt;/p&gt;
+&lt;p&gt;During the day, the MVP Cloud OS Relay and SQL Relay 2012R2 have great line-ups of MVPs and other experts in Windows Server, System Center, Hyper-V, Office 365, Azure, SQL and Business Intelligence.&lt;/p&gt;
+&lt;p&gt;In the evening, the Windows User Group takes over with an event covering Windows 8.1, deployment, MDOP and Office 2013.&lt;/p&gt;
+&lt;p&gt;The schedule for the Cloud OS event is at &lt;a href=&quot;http://www.cloudoscommunity.com/Newcastle&quot;&gt;http://www.cloudoscommunity.com/Newcastle&lt;/a&gt; and free sign-up is at &lt;a href=&quot;http://www.eventbrite.co.uk/e/mvp-cloud-os-infrastructure-relay-newcastle-tickets-8456426399&quot;&gt;http://www.eventbrite.co.uk/e/mvp-cloud-os-infrastructure-relay-newcastle-tickets-8456426399&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The SQL Relay event has sold out, but if you're desperately interested in any of the sessions at &lt;a href=&quot;http://www.sqlrelay.co.uk/events/2013r2/Newcastle.html&quot;&gt;http://www.sqlrelay.co.uk/events/2013r2/Newcastle.html&lt;/a&gt; you can register for the Cloud OS event and switch tracks throughout the day if there's capacity in the room.&lt;/p&gt;
+&lt;p&gt;Sign up for the evening event is at &lt;a href=&quot;https://www.eventbrite.co.uk/e/windows-and-office-tour-tickets-9107714419&quot;&gt;https://www.eventbrite.co.uk/e/windows-and-office-tour-tickets-9107714419&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hopefully I'll see you there!&lt;/p&gt;</content:encoded>
+	<dc:date>2013-11-12T12:39:36+00:00</dc:date>
+</item>
+<item rdf:about="http://transitlab.org/?p=991">
+	<title>Transitlab: Fermentations</title>
+	<link>http://transitlab.org/2013/fermentations</link>
+	<content:encoded>&lt;p id=&quot;top&quot;&gt;
+&lt;div&gt;&lt;a title=&quot;photo sharing&quot; href=&quot;http://www.flickr.com/photos/sctv/10689353566/&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm3.staticflickr.com/2823/10689353566_ab38d62197_m.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.flickr.com/photos/sctv/10689353566/&quot;&gt;Elderandstrawberry&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Originally uploaded by &lt;a href=&quot;http://www.flickr.com/photos/sctv/&quot;&gt;Dr Brian&lt;/a&gt;&lt;/p&gt;&amp;nbsp;
+
+&lt;p&gt;it was whikle trying to publish this &lt;img src=&quot;http://transitlab.org/blog/wp-includes/images/smilies/icon_smile.gif&quot; alt=&quot;:)&quot; class=&quot;wp-smiley&quot; /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;a2a_button_facebook&quot; href=&quot;http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Ftransitlab.org%2F2013%2Ffermentations&amp;linkname=Fermentations&quot; title=&quot;Facebook&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;a class=&quot;a2a_button_twitter&quot; href=&quot;http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Ftransitlab.org%2F2013%2Ffermentations&amp;linkname=Fermentations&quot; title=&quot;Twitter&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;a class=&quot;a2a_button_google_plus&quot; href=&quot;http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Ftransitlab.org%2F2013%2Ffermentations&amp;linkname=Fermentations&quot; title=&quot;Google+&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;a class=&quot;a2a_dd a2a_target addtoany_share_save&quot; href=&quot;http://www.addtoany.com/share_save#url=http%3A%2F%2Ftransitlab.org%2F2013%2Ffermentations&amp;title=Fermentations&quot; id=&quot;wpa2a_4&quot;&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-11-07T14:58:31+00:00</dc:date>
+</item>
+<item rdf:about="325001:3411171:34400586">
+	<title>Jonoble.com, powershell, tech, stuff: Microsoft UK Tech Days Online starts tomorrow</title>
+	<link>http://www.jonoble.com/blog/2013/11/5/microsoft-uk-tech-days-online-starts-tomorrow.html</link>
+	<content:encoded>&lt;p&gt;For 3 days (6-8 Nov) Microsoft UK is running their Tech Days Online event, covering (day 1) &lt;span&gt;Windows Client for IT Pros and Developers, (day 2) &lt;span&gt;Server and Cloud for IT Pros, and (day 3) &lt;span&gt;Visual Studio, Azure, Dev tools for Developers.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The late morning slot is where the headline content is because on Wednesday they have an intereview with outgoing Microsoft CEO Steve Ballmer, and on Thursday they have me ;-) talking about PowerShell, with a focus on Desired State Configuration.&lt;/p&gt;
+&lt;p&gt;As The Register says, &quot;&lt;span&gt;Microsoft TechDays Online is a lovely opportunity for IT pros and developers to beef up on the latest developments in Microsoft client, server, cloud, system management and developer tools technologies.&quot;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;It's all free, and you can register at &lt;a href=&quot;https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032564581&amp;Culture=en-GB&quot;&gt;https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032564581&amp;amp;Culture=en-GB&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-11-05T13:17:56+00:00</dc:date>
+</item>
+<item rdf:about="http://www.aidangarnish.net/post.aspx?id=41110825-61b5-42d4-8334-b1d61f144439">
+	<title>SharePoint and other Microsoft technologies: Support Spanish City Regeneration</title>
+	<link>http://feedproxy.google.com/~r/AidanGarnish/~3/ST1FjEtFdaQ/post.aspx</link>
+	<content:encoded>&lt;p&gt;No, not Granada or Seville, the Spanish City in Whitley Bay, a grade II listed building on the north east coast just down the road from Newcastle!&lt;/p&gt;
+&lt;p&gt;North Tyneside council are currently in the process of working to regenerate the iconic building after years of neglect and need your support to convince the Heritage Lottery Fund that some of their cash is worth spending on this project.&lt;/p&gt;
+&lt;p&gt;After visiting Spanish City yesterday on a rare open day I decided to put together a website to make it easier to find the online form that enables people to express their support for the scheme (I still haven't found a link to it from the council's own website!)&lt;/p&gt;
+&lt;p&gt;So, all you need to do is visit the &lt;a href=&quot;http://www.spanishcity.co.uk&quot;&gt;Spanish City&lt;/a&gt; site to find out more and to pledge your support by filling in an extremely short form.&lt;/p&gt;
+&lt;p&gt;If you also fancy sharing the link and encouraging your friends to add their support too, well, the more the merrier. The majestic dome thanks you for your support!&lt;/p&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/AidanGarnish/~4/ST1FjEtFdaQ&quot; height=&quot;1&quot; width=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2013-10-27T16:16:00+00:00</dc:date>
+</item>
+<item rdf:about="http://www.supermondays.org/?p=1084">
+	<title>SuperMondays: Ignite100 2013</title>
+	<link>http://www.supermondays.org/2013/10/17/ignite100-2013/</link>
+	<content:encoded>&lt;p&gt;Ignite100 is back for a third year, with 11 teams from across the country and around the world joining us in Newcastle. As the programme matures, so does the calibre of the teams &amp;#8211; and with three teams from Newcastle in the mix, it&amp;#8217;s yet another sign of a thriving tech community in the North East.&lt;/p&gt;
+&lt;p&gt;This is our sneak preview event; it&amp;#8217;s the first time the teams present to the public, a month ahead of their demo day events in Newcastle and London. Expect rapid-fire presentations from all 11 teams, and plenty to talk about afterwards. We&amp;#8217;d love you to join us.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.eventbrite.co.uk/event/8840870281?ref=ebtnebregn&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;aligncenter&quot; alt=&quot;Eventbrite - Ignite100 2013&quot; src=&quot;http://www.eventbrite.co.uk/custombutton?eid=8840870281&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-10-17T09:00:07+00:00</dc:date>
+</item>
+<item rdf:about="http://blog.jamesmills.co.uk/?p=431">
+	<title>James Mills Blog: Clicksco are looking for awesome people, are you one of them?</title>
+	<link>http://feedproxy.google.com/~r/JamesMillsBlog/~3/QC6VU9lcQw8/</link>
+	<content:encoded>&lt;p&gt;&lt;span&gt;Dubai-based &lt;a href=&quot;http://clicksco.com&quot;&gt;Clicksco&lt;/a&gt; employs more than 200 people in nine offices and six countries. It has a turnover of some US$100 million and serves more than 11 million customers per month through its network of comparison shopping, B2B, ecommerce and travel websites. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;The &lt;a href=&quot;http://thap.co.uk&quot;&gt;technical arm of Clicksco&lt;/a&gt; is based in Middlesbrough in the UK and we are looking for new people to fill the below &lt;/span&gt;opportunities&lt;span&gt;:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Product / Project Management&lt;/li&gt;
+&lt;li&gt;Front End Development / Inc Word Press&lt;/li&gt;
+&lt;li&gt;.net c#&lt;/li&gt;
+&lt;li&gt;Design&lt;/li&gt;
+&lt;li&gt;iOS&lt;/li&gt;
+&lt;li&gt;Android&lt;/li&gt;
+&lt;li&gt;PHP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you are interested then please contact &lt;a href=&quot;mailto:us@thap.co.uk&quot;&gt;us@thap.co.uk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-10-17T06:56:09+00:00</dc:date>
+</item>
+<item rdf:about="http://byrichardpowell.co.uk/post/64408017774">
+	<title>Richard Powell - UX and Web Design in Newcastle: My Backbone Workshop at DIBI Conference</title>
+	<link>http://byrichardpowell.co.uk/post/64408017774</link>
+	<content:encoded>This month I was grateful to give my second type of workshop: 4 hours introducing Backbone to a mix...</content:encoded>
+	<dc:date>2013-10-09T23:00:00+00:00</dc:date>
+</item>
+<item rdf:about="http://blog.jamesmills.co.uk/?p=422">
+	<title>James Mills Blog: Where is my Pebble?</title>
+	<link>http://feedproxy.google.com/~r/JamesMillsBlog/~3/pLfc5qNZzBc/</link>
+	<content:encoded>&lt;p&gt;I ordered a &lt;a href=&quot;https://getpebble.com/&quot;&gt;Pebble&lt;/a&gt; on 1st February 2013.&lt;/p&gt;
+&lt;p&gt;I have had no update about what the heck is going on with my order even though I know people who have received theirs even though they ordered after me.&lt;/p&gt;
+&lt;p&gt;Can anyone help me?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://blog.jamesmills.co.uk/wp-content/uploads/2013/10/Screen-Shot-2013-10-07-at-12.16.351.png&quot;&gt;&lt;img class=&quot;alignleft size-full wp-image-425&quot; alt=&quot;Screen Shot 2013-10-07 at 12.16.35&quot; src=&quot;http://blog.jamesmills.co.uk/wp-content/uploads/2013/10/Screen-Shot-2013-10-07-at-12.16.351.png&quot; width=&quot;732&quot; height=&quot;237&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-10-07T08:21:57+00:00</dc:date>
+</item>
+<item rdf:about="http://www.ethicalhack3r.co.uk/?p=17200">
+	<title>Ethicalhack3r: SimpleRisk v.20130915-01 CSRF-XSS Account Compromise</title>
+	<link>http://www.ethicalhack3r.co.uk/simplerisk-v-20130915-01-csrf-xss-account-compromise/</link>
+	<content:encoded>1. *Advisory Information* Title: SimpleRisk v.20130915-01 CSRF-XSS Account Compromise Advisory ID: RS-2013-0001 Date Published: 2013-09-30 2. *Vulnerability Information* Type: Cross-Site Request Forgery (CSRF) [CWE-352, OWASP-A8], Cross-Site Scripting (XSS) [CWE-79, OWASP-A3] Impact: Full Account Compromise Remotely Exploitable: Yes Locally Exploitable: Yes Severity: High CVE-ID: CVE-2013-5748 (CSRF) and CVE-2013-5749 (non-httponly cookie) 3. *Software Description* SimpleRisk a simple [&amp;#8230;]</content:encoded>
+	<dc:date>2013-09-30T21:15:12+00:00</dc:date>
+</item>
+<item rdf:about="http://transitlab.org/?p=970">
+	<title>Transitlab: We have always been GMO</title>
+	<link>http://transitlab.org/2013/we-have-always-been-gmo</link>
+	<content:encoded>&lt;p id=&quot;top&quot;&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Initially I wanted a paper about how we should liberate(not kill) GMOS&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;this progressed to a manifesto that was on its way to an exegenesis, before a lot more concepts became important.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;My central motivation is utilitarian and democratic,&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Genetically Designed Devices have the potential to replace large unwieldy and expensive diagnostic equipment, whether it is for detecting pollutants (such as mercury and arsenic) in the environment or metabolites in our urine.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;I know that the door is opening to trojan non-food genetic products such as the blue carnation(worldwide) and the glofish(us -cal only). There are already &amp;#8216;release attempts(solar glofish)’ of these transgenic animals into the environment. There had been non transgenic glofish on the market, but they were fabricated&amp;#8230;&amp;#8230;by injecting dyes into transparent fish, leading to limited lifespans.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Everyone is familiar with the spider silk goat, dolly the sheep, alba the bunny(10 years and still not out of captivity). And yet when it some to far simpler organisms such as bacteria with a gene construct, paranoia, and liability concerns prevents their exhibition.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;(and their use in a home type situation)&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Walls with built in growing pollutant detectors.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;During my time at Interactivos’10 Science de Barrio. I started thinking, what is we could use these bacteria as sentinels, as genetic canaries, to warn of changes in the local environment, to be able to detect areas polluted with heavy metals and radioactivity. As beacon organisms. But what would need to chance for this?&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;A large shift in the EU publics attitude to GMO/GE technology. In my research i came across a number of manifestos of ANTI-GM websites, and to me it more seemed to be talking about distrusting the purpose oF GMOs , as well as the technology. More so, what might be a problem in industrial processing, (for instance the tryptophan deaths) is attributed entirely to GMOs&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;I have listened with interest to Orons talk on the first day, and how this democratic Asolimir conference got no media, and the idea was not considered important until Genetech floated with an insulin producing bacteria. This product has probably saved many lives, what with transgenic GH production, there has been a marked decrease in prion based disease.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Freeman dyson said that Genomes will be a new paint,&amp;#8230;&amp;#8230;I don&amp;#8217;t think so.. but he did have a point, what if adepts in plant breeding and animal breeding suddenly had this genome editing methods?&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Will the brew shop be partnered with a biotech hobby shop?&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Or will you pick up new devices from the mobile biotech lab that visits your neighborhood each week?&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;I have waited 10 years&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;I can wait a few more&amp;#8230;..&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;a2a_button_facebook&quot; href=&quot;http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Ftransitlab.org%2F2013%2Fwe-have-always-been-gmo&amp;linkname=We%20have%20always%20been%20GMO&quot; title=&quot;Facebook&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;a class=&quot;a2a_button_twitter&quot; href=&quot;http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Ftransitlab.org%2F2013%2Fwe-have-always-been-gmo&amp;linkname=We%20have%20always%20been%20GMO&quot; title=&quot;Twitter&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;a class=&quot;a2a_button_google_plus&quot; href=&quot;http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Ftransitlab.org%2F2013%2Fwe-have-always-been-gmo&amp;linkname=We%20have%20always%20been%20GMO&quot; title=&quot;Google+&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;a class=&quot;a2a_dd a2a_target addtoany_share_save&quot; href=&quot;http://www.addtoany.com/share_save#url=http%3A%2F%2Ftransitlab.org%2F2013%2Fwe-have-always-been-gmo&amp;title=We%20have%20always%20been%20GMO&quot; id=&quot;wpa2a_6&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-09-28T12:23:45+00:00</dc:date>
+</item>
+<item rdf:about="http://byrichardpowell.co.uk/post/64405899016">
+	<title>Richard Powell - UX and Web Design in Newcastle: Article: Time Series Graphs with Rickshaw</title>
+	<link>http://byrichardpowell.co.uk/post/64405899016</link>
+	<content:encoded>Recently I had the pleasure of working with a great team to overhaul Server Density&amp;#8217;s...</content:encoded>
+	<dc:date>2013-09-24T23:00:00+00:00</dc:date>
+</item>
+<item rdf:about="http://communityitacademy.org/news/202-digital-tools-and-resources-for-community-groups">
+	<title>Community IT Academy: Digital tools and resources for community groups</title>
+	<link>http://communityitacademy.org/news/202-digital-tools-and-resources-for-community-groups</link>
+	<content:encoded>&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://communityitacademy.org/media/k2/items/cache/bd3346ba561b5b55180dd1441a09d1ee_S.jpg&quot; alt=&quot;Digital tools and resources for community groups&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Community groups and charities are being encouraged to do more with digital, by using ‘Community How To’.&lt;/p&gt;
+&lt;p&gt;The &lt;a title=&quot;Opens in new window&quot; href=&quot;http://www.communityhowto.com/&quot; target=&quot;_blank&quot;&gt;Community How To&lt;/a&gt; website brings together useful tools and tips in one place. You can see what different tools do at a glance, and read testimonials from other people who are already putting them to good use.&lt;/p&gt;
+&lt;p&gt;Tools are grouped into the following categories:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;manage events&lt;/li&gt;
+&lt;li&gt;manage projects&lt;/li&gt;
+&lt;li&gt;manage and recruit volunteers&lt;/li&gt;
+&lt;li&gt;communicate with your community&lt;/li&gt;
+&lt;li&gt;improve fundraising&lt;/li&gt;
+&lt;li&gt;measure outcomes and impact&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;By registering on the site visitors can add their own tools and case studies, leave comments, join discussions and even ask help from those who’ve been there and done it already.&lt;/p&gt;
+&lt;p&gt;Visit the site: &lt;a title=&quot;Opens in new window&quot; href=&quot;http://www.communityhowto.com/&quot; target=&quot;_blank&quot;&gt;Community How To&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If your organisation needs help finding the best digital tools to support your work give us a call on 07958 482 509.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</content:encoded>
+	<dc:date>2013-09-23T15:45:43+00:00</dc:date>
+	<dc:creator>William Mortada</dc:creator>
+</item>
+<item rdf:about="http://communityitacademy.org/news/201-microsoft-s-cloud-suite-free-for-uk-charities">
+	<title>Community IT Academy: Microsoft's cloud suite free for UK charities</title>
+	<link>http://communityitacademy.org/news/201-microsoft-s-cloud-suite-free-for-uk-charities</link>
+	<content:encoded>&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://communityitacademy.org/media/k2/items/cache/70a2f0392847dc331972c7d3d3673ab9_S.jpg&quot; alt=&quot;Microsoft's cloud suite free for UK charities&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Office 365 for Nonprofits is now available to UK charities free of charge.&lt;/p&gt;
+&lt;p&gt;Office 365 is Microsoft's online office applications suite.&amp;nbsp; It offers organisations a comprehensive cloud computing platform, which enables staff to read emails, view calendars and edit documents via a browser from any location with internet access.&lt;/p&gt;
+&lt;p&gt;Microsoft is offering the &lt;a title=&quot;Opens in new window&quot; href=&quot;http://office.microsoft.com/en-gb/business/office-365-enterprise-e1-business-software-FX103887102.aspx&quot; target=&quot;_blank&quot;&gt;Office 365 Enterprise E1&lt;/a&gt; package, which includes the following features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;email and calendars - with 25GB of storage per user&lt;/li&gt;
+&lt;li&gt;office web apps - create and edit Word, PowerPoint and Excel documents online&lt;/li&gt;
+&lt;li&gt;file storage and sharing - with 7GB of storage per user&lt;/li&gt;
+&lt;li&gt;web conferencing&lt;/li&gt;
+&lt;li&gt;instant messaging and Skype&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Announcing the launch in the UK, CTT Chief Executive, Richard Craig, said:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&quot;The cloud has long held promise for the charity sector, as it supports the remote and flexible working practices that are so vital for charities and not for profit organisations to operate. We are excited to see Office 365 made available to charities, making it easier than ever for them to take advantage of all the cloud has to offer.&quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Find out more and sign up online at: &lt;a title=&quot;Opens in new window&quot; href=&quot;http://www.microsoft.com/about/corporatecitizenship/en-us/office365-for-nonprofits/&quot; target=&quot;_blank&quot;&gt;Office 365 for Nonprofits&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For comparison, see our previous article on Google Apps, which is also free for UK charities: &lt;a href=&quot;http://communityitacademy.org/index.php?option=com_k2&amp;view=item&amp;id=195:google-launches-non-profit-programme-in-england-and-wales&amp;Itemid=124&quot;&gt;Google launches non-profit programme in England and Wales &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If you would like discuss the benefits of cloud computing for your organisation please call us on&amp;nbsp;07958 482 509 to arrange a meeting.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</content:encoded>
+	<dc:date>2013-09-23T14:25:47+00:00</dc:date>
+	<dc:creator>William Mortada</dc:creator>
+</item>
+<item rdf:about="http://communityitacademy.org/news/200-tenth-anniversary-discount">
+	<title>Community IT Academy: Tenth anniversary discount</title>
+	<link>http://communityitacademy.org/news/200-tenth-anniversary-discount</link>
+	<content:encoded>&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://communityitacademy.org/media/k2/items/cache/bfef6034dab7e57f223e48f4dcf3e90d_S.jpg&quot; alt=&quot;Tenth anniversary discount&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p class=&quot;western&quot;&gt;To celebrate our &lt;a title=&quot;CITA celebrates ten years&quot; href=&quot;http://communityitacademy.org/index.php?option=com_k2&amp;view=item&amp;id=199:cita-celebrates-ten-years&amp;Itemid=124&quot;&gt;tenth anniversary&lt;/a&gt; we are offering a 10% discount on websites and hardware support until the end of October.&lt;/p&gt;
+&lt;p class=&quot;western&quot;&gt;The offer is as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p class=&quot;western&quot;&gt;10% off the price of a &lt;a title=&quot;Website design&quot; href=&quot;http://communityitacademy.org/index.php?option=com_content&amp;view=article&amp;id=6&amp;Itemid=274&quot;&gt;new website&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p class=&quot;western&quot;&gt;10% off &lt;a title=&quot;IT Support&quot; href=&quot;http://communityitacademy.org/index.php?option=com_content&amp;view=article&amp;id=31&amp;Itemid=298&quot;&gt;PC repairs&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p class=&quot;western&quot;&gt;10% off the first quarterly payment for new &lt;a href=&quot;http://communityitacademy.org/index.php?option=com_content&amp;view=article&amp;id=10&amp;Itemid=278&quot;&gt;maintenance agreements&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p class=&quot;western&quot;&gt;&lt;span&gt;This offer ends on 31 October 2013 so get in touch soon if you would like to take advantage of this discount.&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot;&gt;&lt;b&gt;&lt;span&gt;Call us on &lt;/span&gt;&lt;/b&gt;&lt;strong&gt;&lt;b&gt;&lt;span&gt;07958 482 509&amp;nbsp;for details &lt;strong&gt;&lt;b&gt;&lt;span&gt;quoting &quot;tenth anniversary discount&quot; &lt;/span&gt;&lt;/b&gt;&lt;/strong&gt;.&lt;/span&gt;&lt;/b&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</content:encoded>
+	<dc:date>2013-09-23T13:31:57+00:00</dc:date>
+	<dc:creator>William Mortada</dc:creator>
+</item>
+<item rdf:about="http://communityitacademy.org/news/199-cita-celebrates-ten-years">
+	<title>Community IT Academy: CITA celebrates ten years</title>
+	<link>http://communityitacademy.org/news/199-cita-celebrates-ten-years</link>
+	<content:encoded>&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://communityitacademy.org/media/k2/items/cache/ffb67c0cbdf3cc4dd2a13b69ce367cd4_S.jpg&quot; alt=&quot;CITA celebrates ten years&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;We are pleased to be celebrating our tenth anniversary this month.&lt;/p&gt;
+&lt;p&gt;The Community IT Academy (CITA) was officially launched in September 2003 by Stephen Timms, the Minister for Industrial Affairs.&lt;/p&gt;
+&lt;p&gt;The organisation was initially set up by John Sadler and Peter Hill to provide IT training to people who were long-term unemployed. 50 people were trained through this programme and almost 90% attained an IT qualification with over 80% moving into work or further training. The trainees initially reconditioned old computers and we donated 100 of these to local voluntary and community organisations.&lt;/p&gt;
+&lt;p&gt;Over the years CITA has evolved into a voluntary sector IT support organisation. From the start, our trainees provided hardware support as part of their training. The popular circuit riding service started in 2006 and continues to provide free advice and support to voluntary organisations to this day. Our web design service followed in 2007. We now specialise in providing a range of high quality, affordable IT services, training and support to voluntary and community organisations across the North East of England.&lt;/p&gt;
+&lt;p&gt;We asked one of the co-founders of the organisation, John Sadler, for his thoughts on CITA's tenth anniversary. Recognising the challenges facing the voluntary sector in the current economic climate, he said:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“I would like to congratulate CITA for surviving ten years in difficult circumstances. It is good to see how the organisation has developed and I am very pleased to see the good work it does supporting voluntary and community organisations. I wish CITA all the best for the future.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Over the last ten years we have:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;helped over 1,000 voluntary and community organisations use IT more effectively&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;provided over 1,000 hours of advice and support to 250 organisations through the &lt;a title=&quot;Advice&quot; href=&quot;http://communityitacademy.org/index.php?option=com_content&amp;amp;view=article&amp;amp;id=7&amp;amp;Itemid=275&quot;&gt;Northern Rock Foundation Circuit Riders programme&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;built over 65 &lt;a href=&quot;http://communityitacademy.org/index.php?option=com_content&amp;amp;view=article&amp;amp;id=6&amp;amp;Itemid=274&quot;&gt;websites&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We look forward to continuing to provide this help for the next ten years and we would like to thank all of our customers for their ongoing support.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If we can help your organisation with IT please give us a call on 07958 482 509.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</content:encoded>
+	<dc:date>2013-09-19T13:42:46+00:00</dc:date>
+	<dc:creator>William Mortada</dc:creator>
+</item>
+<item rdf:about="http://www.supermondays.org/?p=1064">
+	<title>SuperMondays: SuperMondays – Lighting Talks Speakers</title>
+	<link>http://www.supermondays.org/2013/09/16/supermondays-lighting-talks-2013/</link>
+	<content:encoded>&lt;p&gt;This month&amp;#8217;s Lightening Talks speakers are confirmed and listed below. Everyone is new to speaking at SuperMondays, and half are speaking for the first time. Sign up, come along, and learn something fresh, new and exciting.&lt;/p&gt;
+&lt;h2&gt;Rails Girls&lt;/h2&gt;
+&lt;p&gt;Fiona McDonald &amp;#8211; &lt;a href=&quot;https://twitter.com/noni_may&quot;&gt;https://twitter.com/noni_may&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;m going to spend a couple of minutes talking about RailsGirls, a free two-day workshop where participants (girls, although boys are allowed if accompanied by a girl) develop web applications using Ruby on Rails and with the help and guidance of coaches from the local Ruby community.&lt;/p&gt;
+&lt;h2&gt;Git, Bitcoin &amp;amp; matroyoshka dolls&lt;/h2&gt;
+&lt;p&gt;Chris Price &amp;#8211; &lt;a href=&quot;https://twitter.com/100pxls&quot;&gt;https://twitter.com/100pxls&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A set of matryoshkas consist of a wooden figure which separates, top from bottom, to reveal a smaller figure of the same sort inside, which has, in turn, another figure inside of it, and so on. Did you know that nestled deep within a set of matryoshka dolls lies one of the fundamental principles of git, the most popular way of sharing code on the net, and bitcoin, the most popular way of acquiring illicit substances on the net?&lt;/p&gt;
+&lt;h2&gt;From Student to Work&lt;/h2&gt;
+&lt;p&gt;David Ingledow &amp;#8211; &lt;a href=&quot;https://twitter.com/dingledow&quot;&gt;https://twitter.com/dingledow&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;m planning on talking about the transition from being a student studying Interaction Design to making a move into the &amp;#8216;real world&amp;#8217; of jobs in design and web/tech. I&amp;#8217;ll be looking at what a degree and the university system does/does not gear you up for and what&amp;#8217;s different about the first steps into working life compared to the way we work at university.&lt;/p&gt;
+&lt;h2&gt;Switching to Jekyll&lt;/h2&gt;
+&lt;p&gt;Dan Richardson &amp;#8211; &lt;a href=&quot;https://twitter.com/gsdan&quot;&gt;https://twitter.com/gsdan&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CANDDi&amp;#8217;s corporate site recently made the switch from being a dynamic site powered by PyroCMS to being static and generated by Jekyll. I&amp;#8217;ll be talking about the advantages and disadvantages of doing this, as well as the processes the transition involved.&lt;/p&gt;
+&lt;h2&gt;Code Club&lt;/h2&gt;
+&lt;p&gt;Kamran Chohdry &amp;#8211; &lt;a href=&quot;https://twitter.com/Chohdry&quot;&gt;https://twitter.com/Chohdry&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Code Club creates projects for volunteers to teach at after school coding clubs or at non-school venues such as libraries. The projects teach children how to program by showing them how to make computer games, animations and websites. Volunteers go to their local club for an hour a week and teach one project a week.&lt;/p&gt;
+&lt;h2&gt;Metadata&lt;/h2&gt;
+&lt;p&gt;Janet E Davis &amp;#8211; &lt;a href=&quot;https://twitter.com/janetedavis&quot;&gt;https://twitter.com/janetedavis&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;My lightning talk will be on my addiction to metadata. My work on digital cultural heritage projects in the past decade has focused quite a lot on creating collections &amp;amp; item level descriptive metadata schemas with controlled vocabularies. This was partly with a view to improving searching in the future when semantic search engines become more available.&lt;/p&gt;
+&lt;p&gt;I aim to be less controlling these days, and am trying out less structured metadata in a blog that collates blogs written by people not linked by workplace, profession or topic.&lt;/p&gt;
+&lt;h2&gt;So much to learn&lt;/h2&gt;
+&lt;p&gt;Ben Cooper &amp;#8211; &lt;a href=&quot;http://www.benjaminrcooper.co.uk/&quot;&gt;http://www.benjaminrcooper.co.uk/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We work in such a young industry, and as we all know everything moves so fast. What this means is new techniques, frameworks and trends hit the web every day, and we all need to keep our finger on the pulse so that we do not fall behind. Obviously this is easier said than done and sometimes it is hard to find the time to read the articles and practice the techniques. This talk is going to take a look at how I handle keeping on top of things without getting overwhelmed by the masses of data we all trawl through on a daily basis.&lt;/p&gt;
+&lt;h2&gt;Home Automation&lt;/h2&gt;
+&lt;p&gt;Steve Jenkins &amp;#8211; &lt;a href=&quot;https://twitter.com/skyste&quot;&gt;https://twitter.com/skyste&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;With more and more companies getting into the home automation space and more and more devices coming to market every day. I will be explaining the technologies and products I used to setup simple home automation and how I was able to adapt the relatively simple technologies to do more exciting things that what was available out of the box.&lt;/p&gt;
+&lt;h2&gt;The Trials and Tribulations of WYSIWYG Editors&lt;/h2&gt;
+&lt;p&gt;Kerry Gallagher &amp;#8211; &lt;a href=&quot;https://twitter.com/kerry350&quot;&gt;https://twitter.com/kerry350&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This talk is an overview of some of the features that can be used to create WYSIWYG functionality &amp;#8211; or even just somewhat enhanced text editing. It will look at the contenteditable attribute, the somewhat mysterious .execCommand() method and the lesser known Range and Selection APIs.&lt;/p&gt;
+&lt;h2&gt;Mozilla&amp;#8217;s Educational initiatives&lt;/h2&gt;
+&lt;p&gt;Doug Belshaw &amp;#8211; &lt;a href=&quot;https://twitter.com/dajbelshaw&quot;&gt;https://twitter.com/dajbelshaw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Doug Belshaw from the non-profit Mozilla Foundation will be talking about their educational initiatives. He&amp;#8217;ll mention Open Badges, a new web-native way to share and display your credentials, a new open learning standard for Web Literacy, as well as Mozilla&amp;#8217;s Webmaker tools.&lt;/p&gt;
+&lt;h2&gt;Time &amp;amp; place&lt;/h2&gt;
+&lt;p&gt;The venue is:&lt;/p&gt;
+&lt;p&gt;Research Beehive, Newcastle University&lt;br /&gt;
+NE1 7RU Newcastle upon Tyne&lt;br /&gt;
+United Kingdom&lt;/p&gt;
+&lt;p&gt;A map can be found on the &lt;a href=&quot;http://supermondays-sept2013.eventbrite.co.uk/&quot;&gt;eventbrite page&lt;/a&gt;.  Please arrive from 18:00, presentations will start at 18:30&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.eventbrite.co.uk/event/8317976291?ref=ebtnebregn&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;aligncenter&quot; alt=&quot;Eventbrite - SuperMondays - Lighting Talks 2013&quot; src=&quot;http://www.eventbrite.co.uk/custombutton?eid=8317976291&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-09-16T07:00:50+00:00</dc:date>
+</item>
+<item rdf:about="http://communityitacademy.org/news/198-discounted-microsoft-products-now-available-to-religious-organisations">
+	<title>Community IT Academy: Discounted Microsoft products now available to religious organisations</title>
+	<link>http://communityitacademy.org/news/198-discounted-microsoft-products-now-available-to-religious-organisations</link>
+	<content:encoded>&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://communityitacademy.org/media/k2/items/cache/052250dc50138371fd04f19c188f0143_S.jpg&quot; alt=&quot;Discounted Microsoft products now available to religious organisations&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Faith-based charities can obtain Microsoft software at a vastly reduced cost from CTXchange.&lt;/p&gt;
+&lt;p&gt;Microsoft has recently updated the eligibility requirements of its donations programme to include faith-based organisations.&amp;nbsp; This means that religious charities are now able to join other UK charities in requesting donations of Microsoft software through the CTXchange programme.&amp;nbsp; There are over 250 Microsoft products available at savings of approximately 95% compared to the retail price.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;text_quotes&quot;&gt;Richard Craig, CTT Chief Executive. said:&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&quot;text_quotes&quot;&gt;&quot;Faith-based organisations have a long tradition of community service and making important contributions to public life in the UK and internationally. We are pleased that Microsoft recognises this and we are now able to offer its solutions to these charities through CTXchange thanks the newly expanded eligibility requirements.&quot;&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span class=&quot;text_quotes&quot;&gt;Sample prices include:&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a title=&quot;CTX (Opens in new window)&quot; href=&quot;http://www.ctxchange.org/node/6494&quot; target=&quot;_blank&quot;&gt;Office 2013 Professional Plus - £20&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;CTX (Opens in new window)&quot; href=&quot;http://www.ctxchange.org/node/6135&quot; target=&quot;_blank&quot;&gt;Windows 8 Enterprise Upgrade 64-Bit - £8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;CTX (Opens in new window)&quot; href=&quot;http://www.ctxchange.org/node/6043&quot; target=&quot;_blank&quot;&gt;Windows Server 2012 Standard Edition - £35&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span class=&quot;text_quotes&quot;&gt;&lt;span class=&quot;field-content&quot;&gt;&lt;span class=&quot;field-content&quot;&gt;&lt;span class=&quot;field-content&quot;&gt;For more information visit CTX's website: &lt;a title=&quot;CTX (Opens in new window)&quot; href=&quot;http://www.ctxchange.org/about_ctx/partners/microsoft&quot; target=&quot;_blank&quot;&gt;Microsoft software&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span class=&quot;text_quotes&quot;&gt;&lt;span class=&quot;field-content&quot;&gt;&lt;span class=&quot;field-content&quot;&gt;&lt;span class=&quot;field-content&quot;&gt;If you would like to discuss the software requirements of your organisation please give us a call on 07958 482 509 to arrange an informal discussion.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</content:encoded>
+	<dc:date>2013-09-11T16:31:14+00:00</dc:date>
+	<dc:creator>William Mortada</dc:creator>
+</item>
+<item rdf:about="http://communityitacademy.org/news/197-grant-available-to-improve-charity-websites">
+	<title>Community IT Academy: Grant available to improve charity websites</title>
+	<link>http://communityitacademy.org/news/197-grant-available-to-improve-charity-websites</link>
+	<content:encoded>&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://communityitacademy.org/media/k2/items/cache/77e3798bb9782084333898c5f75d9aab_S.jpg&quot; alt=&quot;Grant available to improve charity websites&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;The Nominet Trust is funding up to 25 charities to help redesign their website on the Raising IT platform. &lt;span id=&quot;lblPageContent&quot; class=&quot;textItemBlock&quot;&gt;&lt;span class=&quot;intro&quot;&gt;Successful applicants will receive between £14,400-72,000 funding to revamp their websites or create microsites.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;textItemBlock&quot;&gt;&lt;span class=&quot;intro&quot;&gt;&lt;span id=&quot;lblPageContent&quot; class=&quot;textItemBlock&quot;&gt;&lt;span class=&quot;intro&quot;&gt;Applications for funding&amp;nbsp;&lt;span class=&quot;textItemBlock&quot;&gt;&lt;span class=&quot;intro&quot;&gt;&lt;span id=&quot;lblPageContent&quot; class=&quot;textItemBlock&quot;&gt;&lt;span class=&quot;intro&quot;&gt;are accepted&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; on a rolling basis until 5.30pm on &lt;/span&gt;&lt;/span&gt;&lt;span id=&quot;lblPageContent&quot; class=&quot;textItemBlock&quot;&gt;&lt;span class=&quot;intro&quot;&gt;&lt;strong&gt;23 September 2013&lt;/strong&gt;.&amp;nbsp; To apply &lt;span id=&quot;lblPageContent&quot; class=&quot;textItemBlock&quot;&gt;your organisation must be a registered charity, social enterprise or housing association with a turnover of over £500,000 per annum.&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;textItemBlock&quot;&gt;&lt;span class=&quot;intro&quot;&gt;&lt;span class=&quot;textItemBlock&quot;&gt;&lt;span class=&quot;intro&quot;&gt;For more information visit: &lt;a title=&quot;Opens in new window&quot; href=&quot;http://www.raisingit.com/grants&quot; target=&quot;_blank&quot;&gt;Raising IT Funding&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span class=&quot;textItemBlock&quot;&gt;&lt;span class=&quot;intro&quot;&gt;&lt;span class=&quot;textItemBlock&quot;&gt;&lt;span class=&quot;intro&quot;&gt;If your website needs a refresh we would be happy to arrange a meeting to discuss the options with you.&amp;nbsp; &lt;br /&gt;Call us on 07958 482 509.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</content:encoded>
+	<dc:date>2013-09-11T11:43:43+00:00</dc:date>
+	<dc:creator>William Mortada</dc:creator>
+</item>
+<item rdf:about="http://www.supermondays.org/?p=1059">
+	<title>SuperMondays: SuperMondays – Lightning Talks 2013</title>
+	<link>http://www.supermondays.org/2013/09/02/super-mondays-lightning-talks-2013/</link>
+	<content:encoded>&lt;p&gt;This months Supermondays is going to be lightning talks. That&amp;#8217;s an opportunity for you to share your enthusiasm for anything tech related over a 5-10 minute presentation. And when we say anything, we really do mean it:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Languages, frameworks, plugins or open source code&lt;/li&gt;
+&lt;li&gt;Hardware: The Rasberry Pi, Arduino, anything else.&lt;/li&gt;
+&lt;li&gt;Code patterns, philosophies, practices or industry trends&lt;/li&gt;
+&lt;li&gt;A project you worked on.&lt;/li&gt;
+&lt;li&gt;Laws, business, recruitment, clients, project management, freelancing.&lt;/li&gt;
+&lt;li&gt;Something that really gets your goat within the world of tech.&lt;/li&gt;
+&lt;li&gt;Design, UX, analytics, SEO.&lt;/li&gt;
+&lt;li&gt;Educatin&lt;/li&gt;
+&lt;li&gt;A cool startup, company, website or app.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;And anything else IT or tech related&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;d especially like to encourage first time speakers to come forward. My (Richard) first public presentation was at Supermondays and I thoroughly enjoyed it. I still remember how rewarding it was and how welcome the audience made me feel.&lt;/p&gt;
+&lt;p&gt;If you want to speak (and you really should), please do get in touch via &lt;a href=&quot;https://twitter.com/supermondays&quot;&gt;twitter&lt;/a&gt;, the &lt;a href=&quot;https://groups.google.com/forum/#!forum/super-mondays&quot;&gt;email group&lt;/a&gt; or if you&amp;#8217;d like a less public way to say hi then you can email &lt;a href=&quot;mailto:richardo@gmail.com&quot;&gt;richardo@gmail.com&lt;/a&gt;. You really will not regret it.&lt;/p&gt;
+&lt;p&gt;Septembers SuperMondays will be held on 30th September, at 18:00 in Newcastle University.&lt;/p&gt;</content:encoded>
+	<dc:date>2013-09-02T20:10:48+00:00</dc:date>
+</item>
+<item rdf:about="http://www.agm.me.uk/blog/?p=1556">
+	<title>Alistair's Blog: Off road points on the new Google Maps mobile apps</title>
+	<link>http://feeds.agm.me.uk/~r/agm/~3/9FCGdRi9qhM/off-road-points-on-the-new-google-maps-mobile-apps.php</link>
+	<content:encoded>&lt;p&gt;A few years ago I blogged about &lt;a href=&quot;http://www.agm.me.uk/blog/2010/11/off-road-points-on-google-maps.php&quot;&gt;locating on off road point on Google Maps&lt;/a&gt;. This apparently proved quite useful to a number of Geocachers and ramblers. Recently the Google Maps apps has change on most (or perhaps all) platforms and this hack will not longer work on mobile devices. :-(&lt;/p&gt;
+&lt;p&gt;The only solution I have found to date is to use the original hack on the Google Earth app instead. Other than using more battery this works well for me. You can turn on roads to simulate the hybrid mode, and I have started saving locations to a map on My Maps and then they are shown automatically on the mobile. I hope this helps (again). If you can figure out a better way then please let me know.&lt;/p&gt;
+&lt;img src=&quot;http://feeds.feedburner.com/~r/agm/~4/9FCGdRi9qhM&quot; height=&quot;1&quot; width=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2013-09-01T15:46:20+00:00</dc:date>
+</item>
+<item rdf:about="http://www.ethicalhack3r.co.uk/?p=17130">
+	<title>Ethicalhack3r: Security Testing HTML5 WebSockets</title>
+	<link>http://www.ethicalhack3r.co.uk/security-testing-html5-websockets/</link>
+	<content:encoded>Recently I became faced with my first Web Application Security Assessment which relied heavily on HTML5&amp;#8242;s WebSockets. The first clue that the application was using WebSockets was when the application kept giving me a timeout error while using my proxy of choice, Burp Suite. Looking at the HTTP requests/responses in Burp I noticed that a [&amp;#8230;]</content:encoded>
+	<dc:date>2013-08-30T17:57:45+00:00</dc:date>
+</item>
+<item rdf:about="http://www.supermondays.org/?p=1054">
+	<title>SuperMondays: SuperMondays – Databases 2013, a review</title>
+	<link>http://www.supermondays.org/2013/08/29/supermondays-databases-2013-a-review/</link>
+	<content:encoded>&lt;p&gt;Thank you once again to all our speakers this month. Here are the videos from the night.&lt;/p&gt;
+&lt;h2&gt;Ross Cooney &amp;#8211; Non standard queries&lt;br /&gt;
+ &lt;/h2&gt;
+&lt;h2&gt;Matt Wells &amp;#8211; Optimising key areas of your application with Redis&lt;br /&gt;
+ &lt;/h2&gt;
+&lt;h2&gt;Marc Qualie &amp;#8211; MongoDB: Fast and Painless Scaling&lt;br /&gt;
+ &lt;/h2&gt;
+&lt;h2&gt;Sam Lambert &amp;#8211; MySQL &amp;#8211; Not dead yet&lt;br /&gt;
+ &lt;/h2&gt;</content:encoded>
+	<dc:date>2013-08-29T18:12:47+00:00</dc:date>
+</item>
+<item rdf:about="http://blog.jamesmills.co.uk/?p=418">
+	<title>James Mills Blog: JetSetMe, IFTTT &amp; Personal site</title>
+	<link>http://feedproxy.google.com/~r/JamesMillsBlog/~3/8LsR4OfbNNY/</link>
+	<content:encoded>&lt;p&gt;&lt;a href=&quot;http://live.jamesmills.co.uk&quot;&gt;live.jamesmills.co.uk&lt;/a&gt; has been an ongoing experiment for a while now. It needs a little bit of an update but if you read the &lt;a href=&quot;http://live.jamesmills.co.uk/about&quot;&gt;about page&lt;/a&gt; you should get a good idea of how I have it setup.&lt;/p&gt;
+&lt;p&gt;I recently updated my personal site (just a quick tidy up really) and I noticed I display where I am based but I am not always actually in that location. Thinking back to a recent update by &lt;a href=&quot;https://ifttt.com&quot;&gt;IFTTT&lt;/a&gt; in which they announced a partnership with &lt;a href=&quot;http://www.jetsetme.com/&quot;&gt;JetSetMe&lt;/a&gt; I started to think of a way I could show this information without having to actually update this myself.&lt;/p&gt;
+&lt;p&gt;I setup the JetSetMe channel in IFTTT. The JetSetMe service is something O2 are experimenting with which allows you to do things when O2 spot that you have arrived in a new country.&lt;/p&gt;
+&lt;p&gt;When JetSetMe picks up a new country IFTTT get triggered. I have IFTTT store data in JSON format in a file in Dropbox (&lt;a href=&quot;https://ifttt.com/recipes/113764&quot;&gt;you can see the recipe here&lt;/a&gt;). I then have a CRON job running on my server which opens this file periodically and saves all the data to a database which live.jamesmills.co.uk uses. This is basically how all the data on live.jamesmills.co.uk is generated.&lt;/p&gt;
+&lt;p&gt;I then have a very simple API on live.jamesmills.co.uk which gives me access to this data which means on &lt;a href=&quot;http://jamesmills.co.uk&quot;&gt;jamesmills.co.uk&lt;/a&gt; I can show where I am currently located.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-08-28T11:24:56+00:00</dc:date>
+</item>
+<item rdf:about="325001:3411171:34182008">
+	<title>Jonoble.com, powershell, tech, stuff: PowerShell 4.0 DSC presentation at NEBytes</title>
+	<link>http://www.jonoble.com/blog/2013/8/19/powershell-40-dsc-presentation-at-nebytes.html</link>
+	<content:encoded>&lt;p&gt;For those in or around North East England next Wednesday (28th August), I'm going to be doing a presentation at &lt;a href=&quot;http://www.nebytes.net/&quot;&gt;NEBytes&lt;/a&gt; on PowerShell 4.0, with a focus on Desired State Configuration.&lt;/p&gt;
+&lt;p&gt;If you haven't heard of DSC before, it's a really big deal - a&amp;nbsp;&lt;span&gt;new set of cmdlets and language extensions provide the ability to declaratively specify the configuration of your environment and maintain the desired state of your systems.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I'm going to cover&amp;nbsp;&lt;span&gt;what DSC can do for you, showing how to define and deploy configuration scripts, as well as touching on some of the other new features of PowerShell 4.0.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;The event is free to attend, but we do ask that you register here:&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://www.eventbrite.com/event/7898393307&quot;&gt;https://www.eventbrite.com/event/7898393307&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As if PowerShell DSC wasn't enough, we've also got my partner-in-crime, &lt;a href=&quot;http://www.andrewwestgarth.co.uk/&quot;&gt;Andy Westgarth&lt;/a&gt; talking about developing with Windows Azure Media Services.&lt;/p&gt;</content:encoded>
+	<dc:date>2013-08-19T09:02:27+00:00</dc:date>
+</item>
+<item rdf:about="http://www.aidangarnish.net/post.aspx?id=e1e222ef-dfc0-4d2b-88ac-0f463e7dbfb2">
+	<title>SharePoint and other Microsoft technologies: SQLServerSpatial.dll and Azure Cloud Services</title>
+	<link>http://feedproxy.google.com/~r/AidanGarnish/~3/XKq97B30sWo/post.aspx</link>
+	<content:encoded>&lt;p&gt;There is a &lt;a href=&quot;http://alastaira.wordpress.com/2011/08/19/spatial-applications-in-windows-azure-redux-including-denali/&quot;&gt;great article here&lt;/a&gt; by Alistair Aitchison detailing how to get the SQL Server spatial types working with Azure roles. Even with the aid of that article it took a little bit of trial and error to get it right.&lt;/p&gt;
+&lt;p&gt;The main issue I found was that when adding SQLServerSpatial.dll from C:\Windows\System32 the Add Exisiting Item dialogue was picking up the SQLServerSpatial.dll file from the SysWOW64 folder.&lt;/p&gt;
+&lt;p&gt;You can tell the difference by the file size, the SysWOW64 file is around&amp;nbsp;230k whilst the System32 file is over 400k. Make sure you add the larger file. I&amp;nbsp;eventually had to copy the file&amp;nbsp;to another location&amp;nbsp;and add from there to get the correct file added.&lt;/p&gt;
+&lt;p&gt;I also found that I didn't need to add the msvcp and msvcr dlls - this is probably because the standard VM running an Azure Cloud Service now comes with these available.&lt;/p&gt;
+&lt;p&gt;Hope this saves someone the few hours it took me to get this working!&lt;/p&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/AidanGarnish/~4/XKq97B30sWo&quot; height=&quot;1&quot; width=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2013-08-16T08:39:00+00:00</dc:date>
+</item>
+<item rdf:about="http://www.supermondays.org/?p=1044">
+	<title>SuperMondays: SuperMondays – Databases 2013</title>
+	<link>http://www.supermondays.org/2013/08/13/supermondays-databases-2013/</link>
+	<content:encoded>&lt;p&gt;Good news. We are back this month, but this time on a Tuesday.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.eventbrite.co.uk/event/7863946275?ref=ebtnebregn&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;aligncenter&quot; alt=&quot;Eventbrite - SuperMondays - Databases 2013&quot; src=&quot;http://www.eventbrite.co.uk/custombutton?eid=7863946275&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Optimising key areas of your application with Redis&lt;/h2&gt;
+&lt;p&gt;Matt Wells &amp;#8211; Head Of Development &amp;#8211; Performance Horizon Group&lt;br /&gt;
+&lt;a href=&quot;https://twitter.com/ninja_p&quot;&gt;https://twitter.com/ninja_p&lt;/a&gt; &lt;a href=&quot;http://www.ninjapenguin.co.uk/&quot;&gt;http://www.ninjapenguin.co.uk/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#8220;Introduction to Redis, strengths and weaknesses. The talk will cover practical examples of optimising standard application operations using some of the key features of Redis&amp;#8221; Specifically it will cover the Redis data structures and very briefly touch on embedded programming with Lua&amp;#8221;&lt;/p&gt;
+&lt;h2&gt;MongoDB: Fast and Painless Scaling&lt;/h2&gt;
+&lt;p&gt;Marc Qualie &amp;#8211; Developer &amp;#8211; Performance Horizon Group&lt;br /&gt;
+&lt;a href=&quot;https://twitter.com/marcqualie&quot;&gt;https://twitter.com/marcqualie&lt;/a&gt; &lt;a href=&quot;http://marcqualie.com/&quot;&gt;http://marcqualie.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;MongoDB is an open source document data store which is designed for simplicity and speed. I&amp;#8217;m going to cover how it can help you scale your application quickly and efficiently, taking advantage of it&amp;#8217;s schema-less nature to improve both development speed and application performance. You&amp;#8217;ll learn how easy it is to create, replicate and shard your application in no time at all with no additional coding to go from a single instance to a 100 node, failure tolerant sharded cluster.&lt;/p&gt;
+&lt;h2&gt;MySQL &amp;#8211; Not dead yet&lt;/h2&gt;
+&lt;p&gt;Sam Lambert &amp;#8211; DBA Badass &amp;#8211; Github&lt;br /&gt;
+&lt;a href=&quot;https://twitter.com/isamlambert&quot;&gt;https://twitter.com/isamlambert&lt;/a&gt; &lt;a href=&quot;http://www.samlambert.com&quot;&gt;http://www.samlambert.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;MySQL was first released 13 years ago and is still the database of choice for some of the largest sites on the internet (Google, Facebook, Twitter). In this talk we will explore the tooling, architecture and techniques that allows us to achieve uptime, scale, resilience and most importantly constancy with this battle hardened database server.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Non standard queries&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.linkedin.com/in/rosscooney&quot;&gt;Ross Cooney&lt;/a&gt; &amp;#8211; Head of Engineering Software and Telemetry at &lt;a href=&quot;http://www.smithelectric.com&quot;&gt;Smith Electric Vehicles&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The vast majority of database queries are in a query language such as SQL or something similar&amp;#8230;.however there are other query methods. Innovation in this area is being pushed by large network operators where query speed, data replication, reliability and query bandwidth are very important. Some examples include using DNS lookups to perform database queries (in the case of DNSBL&amp;#8217;s) or an even more bandwidth friendly system over TCP is used by the Distributed Checksum Clearinghouse.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.eventbrite.co.uk/event/7863946275?ref=ebtnebregn&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;aligncenter&quot; alt=&quot;Eventbrite - SuperMondays - Databases 2013&quot; src=&quot;http://www.eventbrite.co.uk/custombutton?eid=7863946275&quot; /&gt;&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Venue&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The venue is:&lt;/p&gt;
+&lt;p&gt;Research Beehive, Newcastle University&lt;br /&gt;
+NE1 7RU Newcastle upon Tyne&lt;br /&gt;
+United Kingdom&lt;/p&gt;
+&lt;p&gt;A Map can be found on &lt;a href=&quot;http://www.eventbrite.co.uk/event/7863946275&quot;&gt;the eventbrite page&lt;/a&gt;. Arrive from 18:00, presentations will start at 18:30&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.eventbrite.co.uk/event/7863946275?ref=ebtnebregn&quot; target=&quot;_blank&quot;&gt; &lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-08-13T14:10:00+00:00</dc:date>
+</item>
+<item rdf:about="http://communityitacademy.org/news/196-new-smartphone-puts-social-values-first">
+	<title>Community IT Academy: New smartphone puts social values first</title>
+	<link>http://communityitacademy.org/news/196-new-smartphone-puts-social-values-first</link>
+	<content:encoded>&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://communityitacademy.org/media/k2/items/cache/95a78f3015bd19286b33c65657114fc4_S.jpg&quot; alt=&quot;New smartphone puts social values first&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Dutch social enterprise, Fairphone, is producing a new smartphone that minimizes its social and environmental impact.&lt;/p&gt;
+&lt;p&gt;Fairphone aims to show that high-end technological devices can be made without compromising basic human rights or damaging the environment.&amp;nbsp; Their first handset will contain conflict-free minerals, tin and coltan from the Democratic Republic of Congo.&amp;nbsp; It will be made in a factory where a specially established fund will ensure decent wages are distrubuted amongst workers.&amp;nbsp; The phone is designed to reduce waste by being long-lasting, repairable and recyclable.&lt;/p&gt;
+&lt;p&gt;The company used a 'crowd funding' model to raise enough funds to start production of the handset by asking consumers to pre-order the phone.&amp;nbsp; Since it was launched in May this year over 12,000 phones have been ordered and the company aims to deliver its first phone this autumn.&lt;/p&gt;
+&lt;p&gt;To find out more about the phone visit: &lt;a href=&quot;http://www.fairphone.com/&quot;&gt;Fairphone&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Also see this article in the Guardian: &lt;a href=&quot;http://www.theguardian.com/social-enterprise-network/2013/jul/08/fairphone-electronics-get-ethical&quot;&gt;Fairphone: disrupting the mobile phone market through values&lt;/a&gt;&lt;/p&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;</content:encoded>
+	<dc:date>2013-08-12T15:18:32+00:00</dc:date>
+	<dc:creator>William Mortada</dc:creator>
+</item>
+<item rdf:about="http://www.ethicalhack3r.co.uk/?p=17123">
+	<title>Ethicalhack3r: Zone Transfers on The Alexa Top 1 Million Part 2</title>
+	<link>http://www.ethicalhack3r.co.uk/zone-transfers-on-the-alexa-top-1-million-part-2/</link>
+	<content:encoded>In part 1 of this blog post I conducted a DNS Zone Transfer (axfr) against the top 2000 sites of the Alexa Top 1 Million. I did this to create a better subdomain brute forcing word list. At the time, conducting the Zone Transfer against the top 2000 sites took about 12 hours, this was [&amp;#8230;]</content:encoded>
+	<dc:date>2013-08-08T21:06:36+00:00</dc:date>
+</item>
+<item rdf:about="http://communityitacademy.org/news/195-google-launches-non-profit-programme-in-england-and-wales">
+	<title>Community IT Academy: Google launches non-profit programme in England and Wales</title>
+	<link>http://communityitacademy.org/news/195-google-launches-non-profit-programme-in-england-and-wales</link>
+	<content:encoded>&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://communityitacademy.org/media/k2/items/cache/ffe144b59c409587b4c9211fb31afdfe_S.jpg&quot; alt=&quot;Google launches non-profit programme in England and Wales&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Free and discounted Google products available to registered charities.&lt;/p&gt;
+&lt;p&gt;Last month Google launched Google for Nonprofits in England and Wales.&amp;nbsp; This programme has been running this 2011 in the United States, but this is the first time it has been extended outside of those borders.&lt;/p&gt;
+&lt;p&gt;The programme is restricted to charities registered in England and Wales (but not government, health or educational institutions) and offers the following benefits:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Google Apps for Nonprofits&lt;/li&gt;
+&lt;li&gt;Google Grants&lt;/li&gt;
+&lt;li&gt;YouTube for Nonprofits&lt;/li&gt;
+&lt;li&gt;Google Earth Outreach&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The biggest benefit for many organisations will be the ability to use Google Apps for free.&amp;nbsp; This offers organisations a comprehensive cloud computing platform with email, document storage and online collaboration.&amp;nbsp; Organisations can get 30GB of cloud storage for up to 50 users.&amp;nbsp; Since &lt;a href=&quot;http://communityitacademy.org/index.php?option=com_k2&amp;amp;view=item&amp;amp;id=175:google-drops-free-version-of-apps&amp;amp;Itemid=124&quot;&gt;Google dropped the free version of Apps&lt;/a&gt; in December last year charities have had to pay for this service but now they are be able to get it for free again.&lt;/p&gt;
+&lt;p&gt;Google Grants (which was available previously) offers organisations $10,000 worth of AdWords per month, which they can use to advertise on-line.&lt;/p&gt;
+&lt;p&gt;For more details visit: &lt;a href=&quot;http://www.google.co.uk/nonprofits/products/&quot;&gt;Google for Nonprofits&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If you would like discuss the benefits of cloud computing for your organisation please call us on&amp;nbsp;07958 482 509 to arrange a meeting.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</content:encoded>
+	<dc:date>2013-08-08T16:31:33+00:00</dc:date>
+	<dc:creator>William Mortada</dc:creator>
+</item>
+<item rdf:about="http://communityitacademy.org/news/194-unsure-how-to-get-started-with-social-media">
+	<title>Community IT Academy: Unsure how to get started with social media?</title>
+	<link>http://communityitacademy.org/news/194-unsure-how-to-get-started-with-social-media</link>
+	<content:encoded>&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;http://communityitacademy.org/media/k2/items/cache/086218b2ac4369b7cefd2acbee0be8b1_S.jpg&quot; alt=&quot;Unsure how to get started with social media?&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;The Newcastle Social Media Surgery is a free session for voluntary and community groups, charities and anyone committed to social change in Newcastle.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Do you want to find out about new ways to tell your organisation's story to people in Newcastle?&lt;/li&gt;
+&lt;li&gt;Do you want to learn how to use Twitter, Facebook, blogs, free websites and other social media tools?&lt;/li&gt;
+&lt;li&gt;Do you want to learn how to share your photos and videos?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;...then come along to the next social media surgery on &lt;strong&gt;Thursday 19 September 2013&lt;/strong&gt;, 4:00pm to 6:00pm at Pink Lane Coffee.&lt;/p&gt;
+&lt;p&gt;A participant from a previous surgery said it was '&lt;em&gt;one of the best training sessions I've ever been to&lt;/em&gt;', so don't miss out!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Places are limited so booking a place is essential.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To find out more and to book a place visit: &lt;a title=&quot;Opens in new window&quot; href=&quot;http://socialmediasurgery.com/surgeries/newcastle&quot; target=&quot;_blank&quot;&gt;Newcastle Social Media Surgery&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content:encoded>
+	<dc:date>2013-08-08T15:01:21+00:00</dc:date>
+	<dc:creator>William Mortada</dc:creator>
+</item>
+<item rdf:about="http://byrichardpowell.co.uk/post/57691004563">
+	<title>Richard Powell - UX and Web Design in Newcastle: Presentation: Front-End Performance</title>
+	<link>http://byrichardpowell.co.uk/post/57691004563</link>
+	<content:encoded>At July&amp;#8217;s Super Mondays, an event I helped curate, I had the pleasure of presenting on...</content:encoded>
+	<dc:date>2013-08-08T09:09:00+00:00</dc:date>
+</item>
+<item rdf:about="http://www.ethicalhack3r.co.uk/?p=17108">
+	<title>Ethicalhack3r: Zone Transfers on The Alexa Top 1 Million</title>
+	<link>http://www.ethicalhack3r.co.uk/zone-transfers-on-the-alexa-top-1-million/</link>
+	<content:encoded>At work as part of every assessment we do a some reconnaissance which includes attempting a DNS Zone Transfer (axfr) and conducting a subdomain brute force on the target domain/s. The subdomain brute force is only as good as your wordlist, the Zone Transfer is a matter of luck. Alexa release a list of the [&amp;#8230;]</content:encoded>
+	<dc:date>2013-08-03T11:37:33+00:00</dc:date>
+</item>
+<item rdf:about="http://www.supermondays.org/?p=1031">
+	<title>SuperMondays: Speedy Mondays, a review</title>
+	<link>http://www.supermondays.org/2013/07/30/speedy-mondays-a-review/</link>
+	<content:encoded>&lt;p&gt;This month was all about being fast and these are the recordings of the sessions.&lt;/p&gt;
+&lt;h2&gt;&lt;span&gt;Richard Powell&lt;/span&gt;&lt;/h2&gt;
+ 
+&lt;h2&gt;&lt;span&gt;Graham Morley&lt;/span&gt;&lt;/h2&gt;
+ 
+&lt;h2&gt;&lt;span&gt;Oli Wood&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Because of a problem with the camera we have lost Oli&amp;#8217;s words to history, but his slides are available on &lt;a href=&quot;https://speakerdeck.com/coldclimate/scaling-canddi&quot; target=&quot;_blank&quot;&gt;Speaker Deck&lt;/a&gt;. Sorry about that. If you are looking for work &lt;a href=&quot;http://www.linkedin.com/jobs?viewJob=&amp;jobId=6634680&amp;trk=job_nov&quot; target=&quot;_blank&quot;&gt;CANDDi are hiring&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;&lt;span&gt;Paul Callaghan&lt;/span&gt;&lt;/h2&gt;
+ 
+&lt;h2&gt;&lt;span&gt;Stefan Dantchev&lt;/span&gt;&lt;/h2&gt;</content:encoded>
+	<dc:date>2013-07-30T17:33:34+00:00</dc:date>
+</item>
+<item rdf:about="http://byrichardpowell.co.uk/post/56595849553">
+	<title>Richard Powell - UX and Web Design in Newcastle: Helping Out at Super Mondays</title>
+	<link>http://byrichardpowell.co.uk/post/56595849553</link>
+	<content:encoded>Recently I was grateful to be asked to join the Super Mondays Advisory Board. Of course I accepted....</content:encoded>
+	<dc:date>2013-07-27T10:12:00+00:00</dc:date>
+</item>
+<item rdf:about="http://www.ethicalhack3r.co.uk/?p=17104">
+	<title>Ethicalhack3r: Cracking Microsoft Excel 97-2004 .xls Documents</title>
+	<link>http://www.ethicalhack3r.co.uk/cracking-microsoft-excel-97-2004-xls-documents/</link>
+	<content:encoded>A client emailed to say they had forgotten a password for their Microsoft Excel .xls document and asked if it was possible to recover it. After searching on Google it was clear that there was plenty of shi&amp;#8230;bloatware, which may have worked if you were willing to go through a few of them and pay [&amp;#8230;]</content:encoded>
+	<dc:date>2013-07-26T15:58:57+00:00</dc:date>
+</item>
+<item rdf:about="325001:3411171:34062476">
+	<title>Jonoble.com, powershell, tech, stuff: Anatomy of a Scam Email</title>
+	<link>http://www.jonoble.com/blog/2013/7/25/anatomy-of-a-scam-email-1.html</link>
+	<content:encoded>&lt;p&gt;A little while ago I&amp;nbsp;received warnings on a couple of mailing lists of a new email scam claiming to be from Microsoft. There was some suggestion that this particular scam was well structured and more convincing than most, although everyday experience tells us that phishing emails don't have to be very convincing at all to get passwords (or whatever) out of some computer users.&lt;/p&gt;
+&lt;p&gt;This is an example of the message that's going round. It links to a MSI file that you should install &quot;in order to&amp;nbsp;keep your computer and data safe&quot; - I've broken up the URL so that nobody clicks on it by accident - it's malware that wasn't detected by all anti-virus packages at the time.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;From: Microsoft &amp;lt;&lt;a href=&quot;mailto:updates@mcrsoft.com&quot;&gt;updates@mcrsoft.com&lt;/a&gt;&amp;gt;&lt;br /&gt;Subject: Attention: Microsoft Office&lt;br /&gt;To: Recipients &amp;lt;&lt;a href=&quot;mailto:updates@mcrsoft.com&quot;&gt;updates@mcrsoft.com&lt;/a&gt;&amp;gt;&lt;/p&gt;
+&lt;p&gt;Dear Microsoft Office user, through our annonymous statistical&lt;br /&gt;information collection system built into all Microsoft Office&lt;br /&gt;products, we have detected that your system is currently lacking 3&lt;br /&gt;critical Office patches. These patches are for Microsoft Word,&lt;br /&gt;Microsoft PowerPoint and Microsoft Outlook, in order to keep your&lt;br /&gt;computer and data safe we urge you to go to&lt;br /&gt;Microsoft Download Center and download the Microsoft Office Critical Update&lt;br /&gt;Pack available on our website.&lt;/p&gt;
+&lt;p&gt;You can do this by searching for the patch on our website or&lt;br /&gt;directly at:&lt;/p&gt;
+&lt;p&gt;http dot slash slash fileserver dot updateservermicrosoft dot net/MS00285913/CriticalUpdates/&lt;/p&gt;
+&lt;p&gt;Sincerely,&lt;/p&gt;
+&lt;p&gt;Microsoft Office Support&lt;br /&gt;Cardinal Place&lt;br /&gt;80-100 Victoria Street&amp;nbsp;&lt;br /&gt;London&lt;br /&gt;SW1E 5JL&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Now, there are&amp;nbsp;a bunch of reasons why you are too clever to be caught out by this. You've already seen a bunch of them, haven't you? You wouldn't be foolish enough to fall for this, I know. But let's break it down just for fun anyway...&lt;/p&gt;
+&lt;p&gt;First up are the email&amp;nbsp;addresses in the header. That's obviously not how you spell Microsoft, and Microsoft haven't run out of addresses @microsoft.com, so they wouldn't be using anything else. The trouble here is that this could potentially be much worse. Email is horrendously insecure and it's very simple to send an email that looks like it comes from absolutely any address whatsoever.&lt;/p&gt;
+&lt;p&gt;Some systems won't relay email from addresses without verifying the sender is who they say they are, and some systems won't accept email pertaining to be from some address if it didn't originate from a server that's designated as part of the DNS domain. Frankly though, there are loads of systems that are wide open, so you can pretty much assume that the address that an email comes from isn't proof that it came from that person/organisation.&lt;/p&gt;
+&lt;p&gt;The next thing that is often part of a scam email is bad speeling or grammar. This one is better than most, but even if I haven't screwed up the line breaks (which I may have - I didn't receive the message first-hand), this bit is suspect:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dear Microsoft Office user, through...&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;You'd expect a line break after the comma there, which may have been in the original message - if this really was from Microsoft it would've been there, and if there was a line break &quot;through&quot; would be capitalised.&lt;/p&gt;
+&lt;p&gt;The next bit is the one that I would expect more people to miss:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;through our annonymous statistical information collection system built into all Microsoft Office products, we have detected that your system...&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Now some Microsoft products do optionally collect anonymous user data to feed back into their development cycle, so that's plausible, right?&lt;/p&gt;
+&lt;p&gt;The key thing here is that word&amp;nbsp;&quot;annonymous&quot; (which is spelt incorrectly, but that's only part of the point). If the data is anonymous, how would they know that it was your system, or know your email address to warn you about it?&lt;/p&gt;
+&lt;p&gt;They wouldn't. Nobody will ever be able to contact you with a targeted message&amp;nbsp;based on anonymous data. That's just nonsensical.&lt;/p&gt;
+&lt;p&gt;Other stuff that should ring alarm bells, although there require a bit of background knowledge...&lt;/p&gt;
+&lt;p&gt;Microsoft delivers critical patches via Windows Update. If they needed you to apply a critical patch, they'd simply direct you to Windows Update, or at the very least a page on microsoft.com.&lt;/p&gt;
+&lt;p&gt;The physical address is Microsoft's London office, so at least the scammer went to the trouble to check that out. However, they didn't bother to find out what Microsoft does there. A quick seach would have uncovered this: &quot;Our London office primarily serves the MSN and Xbox teams, although the ground floor is set up for hot-desking to ensure that any of our employees can work from this office when they are in London.&quot; Critically, it doesn't include Microsoft Office Support.&lt;/p&gt;
+&lt;p&gt;The scammers are getting better, but they need to try much harder if they're going to fool anyone with a decent dose of both scepticism and common sense (unfortunately there are too many people lacking one or both of those).&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-25T07:49:00+00:00</dc:date>
+</item>
+<item rdf:about="http://transitlab.org/?p=959">
+	<title>Transitlab: professor Linda Smith</title>
+	<link>http://transitlab.org/2013/professor-linda-smith-2</link>
+	<content:encoded>&lt;p id=&quot;top&quot;&gt;
+&lt;div&gt;
+&lt;a href=&quot;http://www.flickr.com/photos/sctv/2884175699/&quot; title=&quot;photo sharing&quot;&gt;&lt;img src=&quot;http://farm4.staticflickr.com/3062/2884175699_0591124197_m.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.flickr.com/photos/sctv/2884175699/&quot;&gt;professor Linda Smith&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+Originally uploaded by &lt;a href=&quot;http://www.flickr.com/photos/sctv/&quot;&gt;Dr Brian&lt;/a&gt;&lt;br /&gt;
+Professor Linda Smith, Chancellor&amp;#8217;s Professor; Professor of Psychological and Brain Sciences and Cognitive Science,Indiana University presented an extended talk entitled Words, actions, objects, and abstractions: Overlapping loops of cause and consequence in developmental process put on by the the The Cognition and Communication Research Centre at Northumbria University Cocolab.org&lt;br /&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;In 2008 I went to an interesting talk hosted by the cocolab at Northumbria. At that stage I wasn&amp;#8217;t near having a baby with my girlfriend/later to be wife. &lt;br /&gt;
+However, it was superinteresting, how can scientists experiment with children in a careful, considerate and informative way.&lt;br /&gt;
+And what were they discovering? Basically, reading healps a child increase her vocabulary, and may help them to pass certain developmental phases earlier.      &lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Via Flickr:&lt;/i&gt;&lt;br /&gt;
+Professor Linda Smith, Chancellor&amp;#8217;s Professor; Professor of Psychological and Brain Sciences and Cognitive Science,Indiana University presented an extended talk entitled Words, actions, objects, and abstractions: Overlapping loops of cause and consequence in developmental process put on by the the The Cognition and Communication Research Centre at Northumbria University Cocolab.org&lt;br /&gt;
+&lt;br clear=&quot;all&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;a2a_button_facebook&quot; href=&quot;http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Ftransitlab.org%2F2013%2Fprofessor-linda-smith-2&amp;linkname=professor%20Linda%20Smith&quot; title=&quot;Facebook&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;a class=&quot;a2a_button_twitter&quot; href=&quot;http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Ftransitlab.org%2F2013%2Fprofessor-linda-smith-2&amp;linkname=professor%20Linda%20Smith&quot; title=&quot;Twitter&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;a class=&quot;a2a_button_google_plus&quot; href=&quot;http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Ftransitlab.org%2F2013%2Fprofessor-linda-smith-2&amp;linkname=professor%20Linda%20Smith&quot; title=&quot;Google+&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;a class=&quot;a2a_dd a2a_target addtoany_share_save&quot; href=&quot;http://www.addtoany.com/share_save#url=http%3A%2F%2Ftransitlab.org%2F2013%2Fprofessor-linda-smith-2&amp;title=professor%20Linda%20Smith&quot; id=&quot;wpa2a_8&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-24T14:35:37+00:00</dc:date>
+</item>
+<item rdf:about="http://www.aidangarnish.net/post.aspx?id=fba9cc43-37d3-4926-9483-af4d9862194a">
+	<title>SharePoint and other Microsoft technologies: Configuring Azure AD as an Identity Provider in ACS</title>
+	<link>http://feedproxy.google.com/~r/AidanGarnish/~3/cvJxmuRakW8/post.aspx</link>
+	<content:encoded>&lt;p&gt;There have been some big improvements recently in the ease of configuring applications to authenticate using Azure AD. It is now possible to manage configuration of your applications through the Azure portal as part of managing Azure AD.&lt;/p&gt;
+&lt;p&gt;There are &lt;a href=&quot;http://msdn.microsoft.com/en-us/library/dn151121.aspx&quot;&gt;lots of tutorials&lt;/a&gt; on how to set up Azure AD to work with your apps.&lt;/p&gt;
+&lt;p&gt;There is also&amp;nbsp;&lt;a href=&quot;http://msdn.microsoft.com/en-us/library/gg185939.aspx&quot;&gt;lots of information&lt;/a&gt; on using ACS to work with Google, Facebook, Yahoo, Microsoft accounts and on premise AD FS 2.0.&lt;/p&gt;
+&lt;p&gt;Where there&amp;nbsp;is a slight&amp;nbsp;gap is for the scenario where you want to authenticate your users using Azure AD through ACS. The app I am building allows users to register using a Microsoft account or a Google account but we also want to add Azure AD to allow organizations to take advantage of single sign on using their own organisation AD credentials.&lt;/p&gt;
+&lt;p&gt;I am starting from a position where my web app is already configured to use ACS and is happily authenticating users with Microsoft and Google accounts.&lt;/p&gt;
+&lt;p&gt;To also include Azure AD in the identity provider mix is a three step process:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Configure ACS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In ACS select Identity Providers and click Add&lt;/p&gt;
+&lt;p&gt;Leave the default selection of WS-Federation identity provider and click Next&lt;/p&gt;
+&lt;p&gt;Enter a display name and then get the url for your Azure AD WS-Federation metadata. This can be found here https://login.windows.net/[myTenantName].onmicrosoft.com/FederationMetadata/2007-06/FederationMetadata.xml - replacing [myTenantName] with whatever your tenant name is.&lt;/p&gt;
+&lt;p&gt;Enter some login link text - this is what will be displayed when your user is selecting the IP they want to use.&lt;/p&gt;
+&lt;p&gt;Select the relying party applications you want to make the Azure AD IP available for and then hit save.&lt;/p&gt;
+&lt;p&gt;In the rule group for your relying party application you will need to add a new rule to pass through claims from Azure AD (or do whatever transformations are appropriate)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Configure your application in Azure AD&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This step is only really necessary if you want to make the app available to external users or you want to enable your app to read or write directory data. If you only require straight authentication this step could be skipped.&lt;/p&gt;
+&lt;p&gt;Login to the Azure portal and In the applications tab of your Azure AD directory click Add&lt;/p&gt;
+&lt;p&gt;Follow the wizard and fill in the fields as relevant for your app&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Provision a service principal in the directory tenant for the ACS namespace&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;After completing the first two steps I was getting the following error when logging into my app using Azure AD as the IP:&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;HTTP Error Code:&lt;/strong&gt;400&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Message:&lt;/strong&gt;ACS50000: There was an error issuing a token.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Inner Message:&lt;/strong&gt;ACS50001: Relying party with identifier 'https://[mynamespace].accesscontrol.windows.net/' was not found&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The solution is to provision a service principal in the AD tenant for your ACS namespace. This is the bit that took me some time to figure out as it looks like it is still something that can only be done using PowerShell. Hat tip to &lt;a href=&quot;http://blog.the-dargans.co.uk/&quot;&gt;Ross Dargan&lt;/a&gt; for suggesting this could be the issue.&lt;/p&gt;
+&lt;p&gt;For a full explanation see &lt;a href=&quot;http://www.cloudidentity.com/blog/2012/11/07/provisioning-a-directory-tenant-as-an-identity-provider-in-an-acs-namespace/&quot;&gt;Vittorio Bertocci's post&lt;/a&gt;&amp;nbsp;but the crucial bit you need is this (remember to replace the urls with your ACS namespace):&lt;/p&gt;
+&lt;div class=&quot;csharpcode&quot;&gt;
+&lt;pre&gt;&lt;span class=&quot;lnum&quot;&gt; 1: &lt;/span&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;span&gt;Connect-MsolService&lt;/span&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;span class=&quot;lnum&quot;&gt; 2: &lt;/span&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;span&gt;Import-Module&lt;/span&gt;&lt;/p&gt;
+&lt;pre&gt; MSOnlineExtended -Force&lt;/pre&gt;
+&lt;pre&gt;&lt;span class=&quot;lnum&quot;&gt; 3: &lt;/span&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;span&gt;$replyUrl&lt;/span&gt;&lt;/p&gt;
+&lt;pre&gt; = &lt;/pre&gt;
+&lt;p&gt;&lt;span&gt;New-MsolServicePrincipalAddresses&lt;/span&gt;&lt;/p&gt;
+&lt;pre&gt; &amp;ndash;Address &lt;span class=&quot;str&quot;&gt;&lt;span&gt;&quot;https://lefederateur.accesscontrol.windows.net/&quot;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;span class=&quot;lnum&quot;&gt; 4: &lt;/span&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;span&gt;New-MsolServicePrincipal&lt;/span&gt;&lt;/p&gt;
+&lt;pre&gt; &amp;ndash;ServicePrincipalNames&lt;/pre&gt;
+&lt;pre&gt;         @(&lt;/pre&gt;
+&lt;p&gt;&lt;span&gt;&amp;ldquo;https://lefederateur.accesscontrol.windows.net/&amp;rdquo;&lt;/span&gt;&lt;/p&gt;
+&lt;pre&gt;) &lt;/pre&gt;
+&lt;pre&gt;         -DisplayName &lt;/pre&gt;
+&lt;p&gt;&lt;span&gt;&amp;ldquo;LeFederateur ACS Namespace&amp;rdquo;&lt;/span&gt;&lt;/p&gt;
+&lt;pre&gt;         -Addresses &lt;/pre&gt;
+&lt;p&gt;&lt;span&gt;$replyUrl&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Once those steps are complete you should be able to start up your app and select Azure AD as the IP option and sign in using your Azure AD account.&lt;/p&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/AidanGarnish/~4/cvJxmuRakW8&quot; height=&quot;1&quot; width=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2013-07-19T11:45:00+00:00</dc:date>
+</item>
+<item rdf:about="http://byrichardpowell.co.uk/post/57775170859">
+	<title>Richard Powell - UX and Web Design in Newcastle: Article: The RequireJS Optimiser</title>
+	<link>http://byrichardpowell.co.uk/post/57775170859</link>
+	<content:encoded>One of my first jobs at Server Density was to reduce RequireJS HTTP Requests by using the RequireJS...</content:encoded>
+	<dc:date>2013-07-14T23:00:00+00:00</dc:date>
+</item>
+<item rdf:about="http://www.supermondays.org/?p=1018">
+	<title>SuperMondays: Speedy Mondays</title>
+	<link>http://www.supermondays.org/2013/07/11/speedy-mondays/</link>
+	<content:encoded>&lt;p&gt;This month we will be moving fast and focusing on speed.&lt;/p&gt;
+&lt;p&gt;Super Mondays favourite Richard Powell returns and will be talking about front end development focusing on speed.&lt;/p&gt;
+&lt;p&gt;Graham Morley will cover the psychology of speed, how website load times have an impact on user experience and conversion, and how to design in an impatient world.&lt;/p&gt;
+&lt;p&gt;Paul Callaghan will briefly introduce Elixir, a relatively new language which combines the flexibility of Ruby syntax with the mature technology of Erlang, with the aim of making it easier to develop complex and massively scalable apps. This has clear relevance to speed via multi-core programming.&lt;/p&gt;
+&lt;p&gt;Oli Wood will pass on his experiences of performance tuning and talk about some of the speed optimisations Canddi have been making recently.&lt;/p&gt;
+&lt;p&gt;Stefan Dantchev will talk about new uses of randomness in algorithms to achieve a good balance between run-time costs and optimality of results. That is, whether we can get a reliably &amp;#8220;good enough&amp;#8221; result in a reasonable time rather than a very good result in an impractical or even infeasible time.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.eventbrite.co.uk/event/7434963175?ref=ebtnebregn&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;Eventbrite - SuperMondays - Speedy Monday&quot; src=&quot;http://www.eventbrite.co.uk/custombutton?eid=7434963175&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-11T22:17:38+00:00</dc:date>
+</item>
+<item rdf:about="http://www.andrewwestgarth.co.uk/blog/post.aspx?id=04ed9e55-35ec-4687-8181-73238ea46577">
+	<title>Random Thoughts of an ASP.Net Code Monkey: Book Review: SignalR Real-time Application Development</title>
+	<link>http://www.andrewwestgarth.co.uk/blog/post/2013/07/05/Book-Review-SignalR-Real-time-Application-Development.aspx</link>
+	<content:encoded>&lt;p&gt;I've been keeping an eye on and experimenting with SignalR for about 18 months now when I get some free time and recently finished reading this book by Einar Ingebrigtsen and published by Packt Publishing.&amp;nbsp; &lt;a href=&quot;http://www.packtpub.com/signalr-realtime-dotnet-application-development/book&quot; target=&quot;_blank&quot;&gt;SignalR: Real-time Application Development&lt;/a&gt; is a very concise look at the key topics that you'd want to get up and running with SignalR.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.packtpub.com/signalr-realtime-dotnet-application-development/book&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.andrewwestgarth.co.uk/blog/image.axd?picture=%2f2013%2f07%2f4241OS_.jpg&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;247&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The book covers topics such as Security and Scalability along with some simple step by step tutorials to help start using SignalR in a variety of scenarios - straight forward web apps, console apps, WinRT applications amongst others.&amp;nbsp; At just 124 pages long this book is not exhaustive and is a really useful start for someone who just wants to hit the ground running with SignalR fundamentals.&lt;/p&gt;
+&lt;p&gt;I found the book a really light read however personally I would have preferred a more detailed book with more discussion of the core technologies employed by SignalR and how they can be exploited to their full potential.&amp;nbsp; Unfortunately this book focuses on the typical Hello World SignalR application of a chat application a lot of examples of which can be found freely on the internet.&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-05T14:34:00+00:00</dc:date>
+</item>
+<item rdf:about="http://www.andrewwestgarth.co.uk/blog/post.aspx?id=6124dccf-9263-42ff-a7b2-b271d0379faa">
+	<title>Random Thoughts of an ASP.Net Code Monkey: Awarded Microsoft MVP Award for 2013</title>
+	<link>http://www.andrewwestgarth.co.uk/blog/post/2013/07/01/Awarded-Microsoft-MVP-Award-for-2013.aspx</link>
+	<content:encoded>&lt;p&gt;This afternoon I received an email from Microsoft to tell me that I’d been awarded the 2013 Microsoft &lt;a href=&quot;https://mvp.support.microsoft.com/en-us/mvp/Andrew%20Westgarth-4020463&quot; target=&quot;_blank&quot;&gt;MVP Award&lt;/a&gt; for ASP.Net/IIS!&amp;#160; This is my sixth MVP Award and I’ve mentioned before I am extremely humble to be associated with a great group of less than 5000 technical people around the globe.&amp;#160; I’ll be aiming to continue my efforts to help the community and deliver as much content as I can to aid and spread knowledge.&amp;#160; &lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-01T21:12:47+00:00</dc:date>
+</item>
+<item rdf:about="http://www.andrewwestgarth.co.uk/blog/post.aspx?id=159ef88b-b299-424d-8dca-95f6f57bcbbb">
+	<title>Random Thoughts of an ASP.Net Code Monkey: DDD North 2013 Announced and Session Submission Open</title>
+	<link>http://www.andrewwestgarth.co.uk/blog/post/2013/07/01/DDD-North-2013-Announced-and-Session-Submission-Open.aspx</link>
+	<content:encoded>&lt;p&gt;On Saturday I attended the inaugural &lt;a href=&quot;http://www.dddeastanglia.com&quot; target=&quot;_blank&quot;&gt;DDD East Anglia&lt;/a&gt; and took the ideal opportunity to announce the details for this year’s &lt;a href=&quot;http://www.dddnorth.co.uk&quot; target=&quot;_blank&quot;&gt;DDD North&lt;/a&gt;!&amp;#160; The event has been in the planning stages for a while and work continues apace.&amp;#160; I’m delighted to announce that we will be returning to the &lt;a href=&quot;http://www.sunderland.ac.uk&quot; target=&quot;_blank&quot;&gt;University of Sunderland&lt;/a&gt; on Saturday 12th October 2013 for DDD North.&amp;#160; The University of Sunderland’s Sir Tom Cowie’s Campus at St.Peters’ is a fantastic venue and was a fantastic place to study when I was studying for my degree many years ago.&amp;#160; We are working hard with the University of Sunderland, Sunderland Software City and Sunderland City Council to make sure this is the best DDD North yet!&amp;#160; &lt;/p&gt;  &lt;p&gt;&lt;a href=&quot;http://www.dddnorth.co.uk/&quot;&gt;&lt;img title=&quot;dddMed&quot; border=&quot;0&quot; alt=&quot;dddMed&quot; src=&quot;http://www.andrewwestgarth.co.uk/blog/image.axd?picture=dddMed.png&quot; width=&quot;240&quot; height=&quot;175&quot; /&gt;&lt;/a&gt;DDD North has launched a new site at &lt;a href=&quot;http://www.dddnorth.co.uk&quot;&gt;http://www.dddnorth.co.uk&lt;/a&gt; and improvements and functionality is being added hourly at present as we ramp up our efforts.&amp;#160; The DDD North Call for Speakers is now open and will remain open till early-mid August before voting will commence so get your &lt;a href=&quot;http://www.dddnorth.co.uk/Sessions/Create&quot; target=&quot;_blank&quot;&gt;session submissions&lt;/a&gt; in now!&amp;#160; We’d love to see some new speakers submitting sessions as the original premise of DDD Events was to encourage and introduce new speakers.&lt;/p&gt;  &lt;p&gt;DDD North is a free event and would not be so if it were not for the support of our fantastic &lt;a href=&quot;http://www.dddnorth.co.uk/sponsors&quot; target=&quot;_blank&quot;&gt;sponsors&lt;/a&gt;.&amp;#160; If you know of any business or groups who would like to sponsor DDD North, we have a range of packages available and are open to discussions about suggestions, please get in touch using the &lt;a href=&quot;http://www.dddnorth.co.uk/home/contact&quot; target=&quot;_blank&quot;&gt;contact form&lt;/a&gt;.&lt;/p&gt;  &lt;p&gt;In the meantime keep an eye on &lt;a href=&quot;http://www.dddnorth.co.uk&quot;&gt;www.dddnorth.co.uk&lt;/a&gt; for more news and sessions being added daily.&amp;#160; I look forward to seeing you at &lt;a href=&quot;http://www.dddnorth.co.uk&quot; target=&quot;_blank&quot;&gt;DDD North 2013&lt;/a&gt; at the University of Sunderland!&lt;/p&gt;</content:encoded>
+	<dc:date>2013-07-01T21:00:42+00:00</dc:date>
+</item>
+
+</rdf:RDF>

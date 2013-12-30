@@ -1,0 +1,14 @@
+# Enable rewrites
+RewriteEngine On
+
+# TODO: a nicer error document
+# ErrorDocument 404 /missing.html
+
+# Rebase the URL to the output directory.
+# Running under Plesk, setting the HTTP base dir arbitrarily is a bit of a pain
+# so we'll just do it like this, redirecting all requests to the 'output' directory.
+
+RewriteCond %{REQUEST_URI} !^/examples/output/
+RewriteRule ^(.*)$ /examples/output/$1
+RewriteRule ^(/)?$ examples/output/index.html [L]
+
