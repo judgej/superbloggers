@@ -12,5 +12,5 @@ TODO
 * The Planet Planet aggregator (http://www.planetplanet.org/) needs upgrading, mainly due to the use of many
   deprecated Python functions in the current version. However, the aggregator has not been updated in a long
   time, so maybe we have reached end-of-life.
-* Some .gitignore rules need setting up to exclude the cache files.
+* Some .gitignore rules need setting up to exclude the cache files. [Done]
 * As a general maintenance thing, the blogs should be pruned, as many are defunkt.
