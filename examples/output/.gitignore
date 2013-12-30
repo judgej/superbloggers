@@ -1,0 +1,5 @@
+# The XML files contain live feed data and index.html is built dynamically.
+# Other files are for static styling.
+
+index.html
+*.xml
