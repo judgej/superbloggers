@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # 
 #
@@ -17,7 +17,11 @@ cd /var/www/vhosts/supermondays.org/blogs
 if [ -s examples/output/index.html ]
 then
     # All fine. We have something in the page at least.
+    echo >/dev/null
 else
     # Index file is empty or missing.
     ls -ls examples/output/ | mail -s 'Superblog page is empty! Please fix.' 'jason@academe.co.uk'
+
+    # Remove the cache - it sometimes gets corrupted
+    rm examples/cache/*
 fi
