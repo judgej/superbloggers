@@ -1,6 +1,12 @@
 # Enable rewrites
 RewriteEngine On
 
+# Stop browser-viewing of all files starting with a period.
+<FilesMatch "^\.">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
 # TODO: a nicer error document
 # ErrorDocument 404 /missing.html
 
